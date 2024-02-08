@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+torch = "*"
+torchvision = "*"
+matplotlib = "*"
+scikit-learn = "*"
+tqdm = "*"
+ray = {extras = ["tune"], version = "*"}
+pytorch-lightning = "*"
+gym = "*"
+gymnasium = "*"
+tree = "*"
+dm-tree = "*"
+scikit-optimize = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.6"
