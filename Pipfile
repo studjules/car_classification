@@ -17,6 +17,9 @@ gymnasium = "*"
 tree = "*"
 dm-tree = "*"
 scikit-optimize = "*"
+bayesian-optimization = "*"
+botorch = "*"
+seaborn = "*"
 
 [dev-packages]
 
