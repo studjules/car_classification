@@ -20,6 +20,7 @@ scikit-optimize = "*"
 bayesian-optimization = "*"
 botorch = "*"
 seaborn = "*"
+optuna = "*"
 
 [dev-packages]
 
