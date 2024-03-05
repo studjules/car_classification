@@ -21,6 +21,7 @@ bayesian-optimization = "*"
 botorch = "*"
 seaborn = "*"
 optuna = "*"
+shap = "*"
 
 [dev-packages]
 
