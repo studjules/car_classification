@@ -22,6 +22,10 @@ botorch = "*"
 seaborn = "*"
 optuna = "*"
 shap = "*"
+flask = "*"
+pillow = "*"
+tkinterdnd2 = "*"
+customtkinter = "*"
 
 [dev-packages]
 

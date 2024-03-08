@@ -1,0 +1,1586 @@
+[I 2024-03-06 18:15:53,295] A new study created in memory with name: no-name-7703349f-7d0f-446d-ba3f-605cfb829025
+
+Train loss: 2.94411 | Train acc: 12.60%
+Test loss: 2.89080 | Test_acc: 18.56%
+Train loss: 2.83908 | Train acc: 24.40%
+Test loss: 2.83487 | Test_acc: 24.62%
+Train loss: 2.76678 | Train acc: 31.34%
+Test loss: 2.75638 | Test_acc: 33.43%
+Train loss: 2.68837 | Train acc: 39.14%
+Test loss: 2.68060 | Test_acc: 44.41%
+Train loss: 2.62694 | Train acc: 45.72%
+Test loss: 2.61651 | Test_acc: 49.53%
+Train loss: 2.56776 | Train acc: 51.96%
+Test loss: 2.58500 | Test_acc: 52.75%
+Train loss: 2.54227 | Train acc: 54.10%
+Test loss: 2.50390 | Test_acc: 60.04%
+Train loss: 2.49972 | Train acc: 58.17%
+Test loss: 2.52004 | Test_acc: 59.28%
+Train loss: 2.45688 | Train acc: 62.33%
+Test loss: 2.47678 | Test_acc: 64.58%
+Train loss: 2.44444 | Train acc: 63.55%
+Test loss: 2.42826 | Test_acc: 69.41%
+Train loss: 2.40936 | Train acc: 66.76%
+Test loss: 2.37186 | Test_acc: 75.85%
+Train loss: 2.39901 | Train acc: 67.40%
+Test loss: 2.34425 | Test_acc: 76.42%
+Train loss: 2.37250 | Train acc: 69.85%
+Test loss: 2.36529 | Test_acc: 75.66%
+Train loss: 2.36296 | Train acc: 70.73%
+Test loss: 2.35522 | Test_acc: 75.76%
+Train loss: 2.33242 | Train acc: 73.83%
+Test loss: 2.32075 | Test_acc: 77.65%
+Train loss: 2.31592 | Train acc: 75.25%
+Test loss: 2.35133 | Test_acc: 75.47%
+Train loss: 2.31889 | Train acc: 75.15%
+Test loss: 2.32856 | Test_acc: 76.33%
+Train loss: 2.32313 | Train acc: 74.52%
+Test loss: 2.26595 | Test_acc: 83.24%
+Train loss: 2.29558 | Train acc: 77.25%
+Test loss: 2.25053 | Test_acc: 84.38%
+Train loss: 2.29813 | Train acc: 77.65%
+Test loss: 2.26953 | Test_acc: 81.91%
+Train loss: 2.29165 | Train acc: 78.22%
+Test loss: 2.28746 | Test_acc: 79.45%
+Train loss: 2.29289 | Train acc: 77.83%
+Test loss: 2.25354 | Test_acc: 83.24%
+Train loss: 2.30020 | Train acc: 76.94%
+Test loss: 2.22795 | Test_acc: 85.80%
+Train loss: 2.28277 | Train acc: 78.37%
+Test loss: 2.23312 | Test_acc: 84.94%
+Train loss: 2.27405 | Train acc: 78.95%
+Test loss: 2.24143 | Test_acc: 84.94%
+Train loss: 2.28831 | Train acc: 77.93%
+Test loss: 2.26286 | Test_acc: 81.91%
+Train loss: 2.28666 | Train acc: 78.49%
+Test loss: 2.25323 | Test_acc: 82.48%
+Train loss: 2.28107 | Train acc: 78.48%
+Test loss: 2.22303 | Test_acc: 86.36%
+Train loss: 2.28370 | Train acc: 78.60%
+Test loss: 2.23516 | Test_acc: 85.51%
+Train loss: 2.27711 | Train acc: 79.51%
+Test loss: 2.23719 | Test_acc: 86.36%
+
+[I 2024-03-06 18:23:35,251] Trial 0 finished with value: 86.36363636363636 and parameters: {'dropout_rate': 0.23907271913386852, 'lr': 0.0002677254167807761, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 0 with value: 86.36363636363636.
+
+Test loss: 2.23127 | Test_acc: 86.36%
+Train loss: 2.98187 | Train acc: 8.47%
+Test loss: 2.96003 | Test_acc: 10.51%
+Train loss: 2.93247 | Train acc: 13.92%
+Test loss: 2.96596 | Test_acc: 9.94%
+Train loss: 2.90467 | Train acc: 16.96%
+Test loss: 2.89454 | Test_acc: 18.09%
+Train loss: 2.87577 | Train acc: 20.25%
+Test loss: 2.90211 | Test_acc: 17.05%
+Train loss: 2.85900 | Train acc: 21.57%
+Test loss: 2.89371 | Test_acc: 18.66%
+Train loss: 2.81203 | Train acc: 26.28%
+Test loss: 2.83950 | Test_acc: 22.92%
+Train loss: 2.79582 | Train acc: 27.81%
+Test loss: 2.81538 | Test_acc: 26.33%
+Train loss: 2.75645 | Train acc: 31.66%
+Test loss: 2.76300 | Test_acc: 30.59%
+Train loss: 2.71296 | Train acc: 36.34%
+Test loss: 2.74840 | Test_acc: 33.81%
+Train loss: 2.69406 | Train acc: 37.81%
+Test loss: 2.70670 | Test_acc: 36.84%
+Train loss: 2.66236 | Train acc: 41.39%
+Test loss: 2.69007 | Test_acc: 38.83%
+Train loss: 2.64398 | Train acc: 43.13%
+Test loss: 2.63046 | Test_acc: 44.41%
+Train loss: 2.61827 | Train acc: 45.80%
+Test loss: 2.63980 | Test_acc: 44.51%
+Train loss: 2.59960 | Train acc: 47.25%
+Test loss: 2.65461 | Test_acc: 42.05%
+Train loss: 2.57000 | Train acc: 50.47%
+Test loss: 2.62539 | Test_acc: 45.45%
+Train loss: 2.53596 | Train acc: 53.74%
+Test loss: 2.54263 | Test_acc: 53.50%
+Train loss: 2.52612 | Train acc: 54.83%
+Test loss: 2.50916 | Test_acc: 57.48%
+Train loss: 2.48684 | Train acc: 58.74%
+Test loss: 2.51935 | Test_acc: 56.44%
+Train loss: 2.46084 | Train acc: 61.20%
+Test loss: 2.41489 | Test_acc: 66.48%
+Train loss: 2.45142 | Train acc: 62.06%
+Test loss: 2.43849 | Test_acc: 64.68%
+Train loss: 2.42063 | Train acc: 65.18%
+Test loss: 2.39170 | Test_acc: 69.32%
+Train loss: 2.40374 | Train acc: 66.85%
+Test loss: 2.40866 | Test_acc: 67.99%
+Train loss: 2.40322 | Train acc: 66.94%
+Test loss: 2.40032 | Test_acc: 67.71%
+Train loss: 2.39905 | Train acc: 66.75%
+Test loss: 2.39143 | Test_acc: 68.56%
+Train loss: 2.37710 | Train acc: 69.74%
+Test loss: 2.39888 | Test_acc: 68.66%
+Train loss: 2.38059 | Train acc: 68.44%
+Test loss: 2.32945 | Test_acc: 75.85%
+Train loss: 2.36822 | Train acc: 70.57%
+Test loss: 2.32269 | Test_acc: 76.14%
+Train loss: 2.35452 | Train acc: 71.07%
+Test loss: 2.33133 | Test_acc: 75.00%
+Train loss: 2.36748 | Train acc: 70.00%
+Test loss: 2.31766 | Test_acc: 76.14%
+Train loss: 2.37159 | Train acc: 69.54%
+Test loss: 2.34428 | Test_acc: 73.11%
+
+[I 2024-03-06 18:31:06,966] Trial 1 finished with value: 75.85227272727273 and parameters: {'dropout_rate': 0.2455004666841868, 'lr': 0.0007708044308509137, 'batch_size': 32, 'optimizer': 'Adam'}. Best is trial 0 with value: 86.36363636363636.
+
+Test loss: 2.31743 | Test_acc: 75.85%
+Train loss: 2.94649 | Train acc: 12.17%
+Test loss: 2.90630 | Test_acc: 17.23%
+Train loss: 2.80278 | Train acc: 28.72%
+Test loss: 2.79272 | Test_acc: 31.44%
+Train loss: 2.68171 | Train acc: 40.37%
+Test loss: 2.72619 | Test_acc: 36.93%
+Train loss: 2.57388 | Train acc: 51.74%
+Test loss: 2.64391 | Test_acc: 46.02%
+Train loss: 2.48603 | Train acc: 60.41%
+Test loss: 2.53961 | Test_acc: 59.19%
+Train loss: 2.41987 | Train acc: 66.32%
+Test loss: 2.52491 | Test_acc: 59.56%
+Train loss: 2.36601 | Train acc: 71.44%
+Test loss: 2.46921 | Test_acc: 64.39%
+Train loss: 2.33708 | Train acc: 73.80%
+Test loss: 2.39415 | Test_acc: 71.02%
+Train loss: 2.29886 | Train acc: 78.40%
+Test loss: 2.41223 | Test_acc: 70.08%
+Train loss: 2.27569 | Train acc: 80.38%
+Test loss: 2.35794 | Test_acc: 75.09%
+Train loss: 2.25383 | Train acc: 82.77%
+Test loss: 2.36426 | Test_acc: 72.63%
+Train loss: 2.24827 | Train acc: 83.01%
+Test loss: 2.30647 | Test_acc: 79.83%
+Train loss: 2.23068 | Train acc: 84.83%
+Test loss: 2.31243 | Test_acc: 77.65%
+Train loss: 2.23056 | Train acc: 84.99%
+Test loss: 2.29008 | Test_acc: 80.40%
+Train loss: 2.22151 | Train acc: 85.55%
+Test loss: 2.28021 | Test_acc: 81.82%
+Train loss: 2.21720 | Train acc: 86.16%
+Test loss: 2.30481 | Test_acc: 77.94%
+Train loss: 2.21872 | Train acc: 85.09%
+Test loss: 2.29732 | Test_acc: 79.36%
+Train loss: 2.20581 | Train acc: 86.60%
+Test loss: 2.27226 | Test_acc: 81.25%
+Train loss: 2.21433 | Train acc: 86.21%
+Test loss: 2.30894 | Test_acc: 77.37%
+Train loss: 2.21133 | Train acc: 85.89%
+Test loss: 2.28582 | Test_acc: 80.21%
+Train loss: 2.20537 | Train acc: 86.84%
+Test loss: 2.25325 | Test_acc: 83.52%
+Train loss: 2.20700 | Train acc: 86.22%
+Test loss: 2.27490 | Test_acc: 81.06%
+Train loss: 2.20078 | Train acc: 87.25%
+Test loss: 2.24770 | Test_acc: 84.66%
+Train loss: 2.19694 | Train acc: 87.57%
+Test loss: 2.23594 | Test_acc: 84.94%
+Train loss: 2.20948 | Train acc: 86.12%
+Test loss: 2.27572 | Test_acc: 81.34%
+Train loss: 2.20474 | Train acc: 87.06%
+Test loss: 2.25667 | Test_acc: 84.38%
+Train loss: 2.20646 | Train acc: 86.72%
+Test loss: 2.25818 | Test_acc: 82.77%
+Train loss: 2.20267 | Train acc: 86.73%
+Test loss: 2.23843 | Test_acc: 84.66%
+Train loss: 2.20061 | Train acc: 87.91%
+
+[I 2024-03-06 18:38:19,591] Trial 2 pruned.
+
+Test loss: 2.23774 | Test_acc: 85.23%
+
+Early stopping at epoch 28
+Train loss: 2.99509 | Train acc: 6.24%
+Test loss: 2.99438 | Test_acc: 5.11%
+Train loss: 2.99495 | Train acc: 5.95%
+Test loss: 2.99457 | Test_acc: 5.68%
+Train loss: 2.99526 | Train acc: 5.26%
+Test loss: 2.99489 | Test_acc: 8.71%
+Train loss: 2.99483 | Train acc: 5.69%
+Test loss: 2.99495 | Test_acc: 6.25%
+Train loss: 2.99503 | Train acc: 5.14%
+Test loss: 2.99485 | Test_acc: 6.53%
+Train loss: 2.99457 | Train acc: 6.04%
+
+[I 2024-03-06 18:39:37,317] Trial 3 pruned.
+
+Test loss: 2.99392 | Test_acc: 9.00%
+
+Early stopping at epoch 5
+Train loss: 2.96651 | Train acc: 10.21%
+Test loss: 2.93152 | Test_acc: 15.81%
+Train loss: 2.90402 | Train acc: 17.36%
+Test loss: 2.87609 | Test_acc: 22.92%
+Train loss: 2.85649 | Train acc: 22.06%
+Test loss: 2.83609 | Test_acc: 28.03%
+Train loss: 2.81433 | Train acc: 26.65%
+Test loss: 2.80594 | Test_acc: 33.43%
+Train loss: 2.77161 | Train acc: 31.45%
+Test loss: 2.77432 | Test_acc: 39.96%
+Train loss: 2.73457 | Train acc: 34.39%
+Test loss: 2.73433 | Test_acc: 44.51%
+Train loss: 2.69919 | Train acc: 38.21%
+Test loss: 2.72069 | Test_acc: 45.17%
+Train loss: 2.65740 | Train acc: 42.96%
+Test loss: 2.67367 | Test_acc: 53.03%
+Train loss: 2.64264 | Train acc: 44.20%
+Test loss: 2.60940 | Test_acc: 60.23%
+Train loss: 2.61282 | Train acc: 46.90%
+Test loss: 2.58597 | Test_acc: 61.17%
+Train loss: 2.58080 | Train acc: 50.21%
+Test loss: 2.58068 | Test_acc: 60.70%
+Train loss: 2.57942 | Train acc: 49.84%
+Test loss: 2.50280 | Test_acc: 69.32%
+Train loss: 2.55539 | Train acc: 52.28%
+Test loss: 2.51387 | Test_acc: 68.56%
+Train loss: 2.52229 | Train acc: 55.62%
+Test loss: 2.48108 | Test_acc: 71.88%
+Train loss: 2.51533 | Train acc: 55.73%
+Test loss: 2.47508 | Test_acc: 74.72%
+Train loss: 2.49737 | Train acc: 57.05%
+Test loss: 2.46318 | Test_acc: 74.24%
+Train loss: 2.49969 | Train acc: 56.73%
+Test loss: 2.42771 | Test_acc: 77.65%
+Train loss: 2.49931 | Train acc: 56.48%
+Test loss: 2.38604 | Test_acc: 81.82%
+Train loss: 2.48491 | Train acc: 57.75%
+Test loss: 2.37589 | Test_acc: 82.67%
+Train loss: 2.47432 | Train acc: 58.57%
+Test loss: 2.35226 | Test_acc: 84.38%
+Train loss: 2.47033 | Train acc: 59.26%
+Test loss: 2.33237 | Test_acc: 84.66%
+Train loss: 2.46901 | Train acc: 59.17%
+Test loss: 2.35237 | Test_acc: 81.34%
+Train loss: 2.45500 | Train acc: 60.22%
+Test loss: 2.31188 | Test_acc: 85.23%
+Train loss: 2.45771 | Train acc: 59.91%
+Test loss: 2.29838 | Test_acc: 86.08%
+Train loss: 2.44726 | Train acc: 61.31%
+Test loss: 2.30915 | Test_acc: 85.23%
+Train loss: 2.45272 | Train acc: 60.75%
+Test loss: 2.30101 | Test_acc: 86.08%
+Train loss: 2.45506 | Train acc: 60.43%
+Test loss: 2.26762 | Test_acc: 86.93%
+Train loss: 2.44475 | Train acc: 61.32%
+Test loss: 2.27362 | Test_acc: 86.93%
+Train loss: 2.44229 | Train acc: 61.58%
+Test loss: 2.25745 | Test_acc: 86.36%
+Train loss: 2.44443 | Train acc: 61.47%
+Test loss: 2.24633 | Test_acc: 87.50%
+
+[I 2024-03-06 18:47:07,514] Trial 4 finished with value: 87.5 and parameters: {'dropout_rate': 0.39365496751515117, 'lr': 7.929783847811116e-05, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 4 with value: 87.5.
+
+Test loss: 2.24386 | Test_acc: 87.50%
+Train loss: 3.01521 | Train acc: 6.02%
+Test loss: 2.99672 | Test_acc: 8.14%
+Train loss: 3.01946 | Train acc: 5.83%
+Test loss: 2.95501 | Test_acc: 12.31%
+Train loss: 3.01225 | Train acc: 6.07%
+Test loss: 3.01281 | Test_acc: 6.53%
+Train loss: 3.02216 | Train acc: 5.29%
+Test loss: 3.00702 | Test_acc: 7.10%
+Train loss: 3.00373 | Train acc: 7.10%
+Test loss: 2.99861 | Test_acc: 7.95%
+Train loss: 3.00255 | Train acc: 6.92%
+Test loss: 2.99861 | Test_acc: 7.95%
+Train loss: 3.00774 | Train acc: 6.15%
+
+[I 2024-03-06 18:49:17,934] Trial 5 pruned.
+
+Test loss: 2.98251 | Test_acc: 9.56%
+
+Early stopping at epoch 6
+Train loss: 3.02881 | Train acc: 4.87%
+Test loss: 3.01850 | Test_acc: 5.97%
+Train loss: 3.02704 | Train acc: 5.11%
+Test loss: 3.02418 | Test_acc: 5.40%
+Train loss: 3.03064 | Train acc: 4.75%
+Test loss: 3.01944 | Test_acc: 5.87%
+Train loss: 3.03748 | Train acc: 4.07%
+Test loss: 3.04690 | Test_acc: 3.12%
+Train loss: 3.03803 | Train acc: 4.01%
+Test loss: 3.04975 | Test_acc: 2.84%
+Train loss: 3.04071 | Train acc: 3.74%
+
+[I 2024-03-06 18:51:01,922] Trial 6 pruned.
+
+Test loss: 3.04690 | Test_acc: 3.12%
+
+Early stopping at epoch 5
+Train loss: 3.02640 | Train acc: 4.82%
+Test loss: 3.02106 | Test_acc: 5.68%
+Train loss: 3.02369 | Train acc: 5.30%
+Test loss: 3.00239 | Test_acc: 7.58%
+Train loss: 3.01990 | Train acc: 5.60%
+Test loss: 3.03270 | Test_acc: 4.55%
+Train loss: 3.02620 | Train acc: 4.67%
+Test loss: 3.03270 | Test_acc: 4.55%
+Train loss: 3.02371 | Train acc: 4.98%
+Test loss: 3.00669 | Test_acc: 7.01%
+Train loss: 3.02327 | Train acc: 4.92%
+Test loss: 3.03270 | Test_acc: 4.55%
+Train loss: 3.02733 | Train acc: 4.69%
+
+[I 2024-03-06 18:53:02,837] Trial 7 pruned.
+
+Test loss: 3.01092 | Test_acc: 6.72%
+
+Early stopping at epoch 6
+Train loss: 2.99640 | Train acc: 3.90%
+Test loss: 2.99641 | Test_acc: 3.12%
+Train loss: 2.99622 | Train acc: 4.10%
+Test loss: 2.99584 | Test_acc: 2.27%
+Train loss: 2.99613 | Train acc: 4.21%
+Test loss: 2.99619 | Test_acc: 2.84%
+Train loss: 2.99623 | Train acc: 3.43%
+Test loss: 2.99667 | Test_acc: 2.84%
+Train loss: 2.99619 | Train acc: 4.21%
+Test loss: 2.99622 | Test_acc: 2.84%
+Train loss: 2.99618 | Train acc: 3.82%
+
+[I 2024-03-06 18:54:24,553] Trial 8 pruned.
+
+Test loss: 2.99620 | Test_acc: 2.27%
+
+Early stopping at epoch 5
+Train loss: 2.96742 | Train acc: 10.43%
+Test loss: 2.98485 | Test_acc: 9.09%
+Train loss: 2.95809 | Train acc: 11.90%
+Test loss: 3.00000 | Test_acc: 7.67%
+Train loss: 2.95949 | Train acc: 11.76%
+Test loss: 2.93942 | Test_acc: 13.54%
+Train loss: 2.93810 | Train acc: 14.07%
+Test loss: 2.98430 | Test_acc: 9.09%
+Train loss: 2.95773 | Train acc: 11.99%
+Test loss: 2.95108 | Test_acc: 12.69%
+Train loss: 2.96560 | Train acc: 11.15%
+Test loss: 2.97870 | Test_acc: 9.94%
+Train loss: 2.95060 | Train acc: 12.63%
+Test loss: 2.95799 | Test_acc: 11.84%
+Train loss: 2.95949 | Train acc: 11.78%
+
+[I 2024-03-06 18:56:24,099] Trial 9 pruned.
+
+Test loss: 2.95031 | Test_acc: 12.69%
+
+Early stopping at epoch 7
+Train loss: 2.99464 | Train acc: 6.38%
+Test loss: 2.99493 | Test_acc: 3.98%
+Train loss: 2.99482 | Train acc: 6.10%
+Test loss: 2.99558 | Test_acc: 3.69%
+Train loss: 2.99480 | Train acc: 6.15%
+Test loss: 2.99528 | Test_acc: 3.69%
+Train loss: 2.99463 | Train acc: 6.54%
+Test loss: 2.99497 | Test_acc: 3.69%
+Train loss: 2.99462 | Train acc: 6.43%
+Test loss: 2.99514 | Test_acc: 3.69%
+Train loss: 2.99454 | Train acc: 6.28%
+
+[I 2024-03-06 18:57:42,183] Trial 10 pruned.
+
+Test loss: 2.99474 | Test_acc: 3.69%
+
+Early stopping at epoch 5
+Train loss: 2.97371 | Train acc: 9.65%
+Test loss: 2.95373 | Test_acc: 14.11%
+Train loss: 2.92700 | Train acc: 15.56%
+Test loss: 2.92181 | Test_acc: 19.60%
+Train loss: 2.88029 | Train acc: 21.48%
+Test loss: 2.88785 | Test_acc: 21.59%
+Train loss: 2.82851 | Train acc: 27.00%
+Test loss: 2.84956 | Test_acc: 34.28%
+Train loss: 2.79001 | Train acc: 30.91%
+Test loss: 2.81762 | Test_acc: 38.54%
+Train loss: 2.74148 | Train acc: 36.93%
+Test loss: 2.80627 | Test_acc: 35.80%
+Train loss: 2.70959 | Train acc: 38.81%
+Test loss: 2.73033 | Test_acc: 48.39%
+Train loss: 2.67194 | Train acc: 43.21%
+Test loss: 2.71004 | Test_acc: 52.94%
+Train loss: 2.62914 | Train acc: 47.67%
+Test loss: 2.68180 | Test_acc: 54.17%
+Train loss: 2.61911 | Train acc: 48.04%
+Test loss: 2.63853 | Test_acc: 59.75%
+Train loss: 2.59668 | Train acc: 50.27%
+Test loss: 2.60501 | Test_acc: 65.91%
+Train loss: 2.55723 | Train acc: 54.41%
+Test loss: 2.59128 | Test_acc: 64.58%
+Train loss: 2.54270 | Train acc: 54.81%
+Test loss: 2.53695 | Test_acc: 70.17%
+Train loss: 2.50930 | Train acc: 58.33%
+Test loss: 2.55361 | Test_acc: 69.51%
+Train loss: 2.50030 | Train acc: 58.98%
+Test loss: 2.54424 | Test_acc: 70.36%
+Train loss: 2.48692 | Train acc: 59.85%
+Test loss: 2.50883 | Test_acc: 76.52%
+Train loss: 2.47864 | Train acc: 60.31%
+Test loss: 2.48683 | Test_acc: 75.95%
+Train loss: 2.46644 | Train acc: 61.39%
+Test loss: 2.46947 | Test_acc: 75.47%
+Train loss: 2.45163 | Train acc: 62.52%
+Test loss: 2.43371 | Test_acc: 79.64%
+Train loss: 2.43587 | Train acc: 63.99%
+Test loss: 2.45185 | Test_acc: 77.18%
+Train loss: 2.44117 | Train acc: 62.91%
+Test loss: 2.37989 | Test_acc: 82.95%
+Train loss: 2.43216 | Train acc: 63.67%
+Test loss: 2.39619 | Test_acc: 79.92%
+Train loss: 2.42217 | Train acc: 64.60%
+Test loss: 2.40024 | Test_acc: 79.73%
+Train loss: 2.41461 | Train acc: 65.18%
+Test loss: 2.34344 | Test_acc: 84.94%
+Train loss: 2.42459 | Train acc: 64.02%
+Test loss: 2.32408 | Test_acc: 85.80%
+Train loss: 2.40346 | Train acc: 66.40%
+Test loss: 2.33100 | Test_acc: 85.80%
+Train loss: 2.40907 | Train acc: 65.22%
+Test loss: 2.32351 | Test_acc: 86.36%
+Train loss: 2.40756 | Train acc: 65.54%
+Test loss: 2.30382 | Test_acc: 86.36%
+Train loss: 2.40563 | Train acc: 65.75%
+Test loss: 2.29469 | Test_acc: 86.93%
+Train loss: 2.40518 | Train acc: 66.07%
+Test loss: 2.29299 | Test_acc: 86.65%
+
+[I 2024-03-06 19:05:00,673] Trial 11 finished with value: 83.90151515151514 and parameters: {'dropout_rate': 0.3319610188161139, 'lr': 3.664584097496197e-05, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 4 with value: 87.5.
+
+Test loss: 2.32098 | Test_acc: 83.90%
+Train loss: 2.97126 | Train acc: 10.37%
+Test loss: 2.95354 | Test_acc: 12.22%
+Train loss: 2.90748 | Train acc: 17.76%
+Test loss: 2.89910 | Test_acc: 18.18%
+Train loss: 2.83824 | Train acc: 25.86%
+Test loss: 2.86459 | Test_acc: 24.15%
+Train loss: 2.75807 | Train acc: 35.81%
+Test loss: 2.80766 | Test_acc: 32.29%
+Train loss: 2.68661 | Train acc: 42.68%
+Test loss: 2.75170 | Test_acc: 43.84%
+Train loss: 2.63467 | Train acc: 47.79%
+Test loss: 2.70716 | Test_acc: 49.53%
+Train loss: 2.59532 | Train acc: 51.16%
+Test loss: 2.67386 | Test_acc: 51.33%
+Train loss: 2.54456 | Train acc: 56.56%
+Test loss: 2.63016 | Test_acc: 56.34%
+Train loss: 2.51201 | Train acc: 59.12%
+Test loss: 2.56724 | Test_acc: 61.93%
+Train loss: 2.47257 | Train acc: 63.06%
+Test loss: 2.56941 | Test_acc: 61.46%
+Train loss: 2.45636 | Train acc: 64.61%
+Test loss: 2.56034 | Test_acc: 61.55%
+Train loss: 2.41357 | Train acc: 68.29%
+Test loss: 2.53150 | Test_acc: 66.29%
+Train loss: 2.40089 | Train acc: 69.19%
+Test loss: 2.54825 | Test_acc: 64.49%
+Train loss: 2.39490 | Train acc: 69.71%
+Test loss: 2.47883 | Test_acc: 74.24%
+Train loss: 2.38726 | Train acc: 69.66%
+Test loss: 2.46266 | Test_acc: 75.09%
+Train loss: 2.37000 | Train acc: 71.18%
+Test loss: 2.43536 | Test_acc: 75.66%
+Train loss: 2.36376 | Train acc: 71.60%
+Test loss: 2.40420 | Test_acc: 77.65%
+Train loss: 2.35426 | Train acc: 72.34%
+Test loss: 2.40178 | Test_acc: 79.64%
+Train loss: 2.35282 | Train acc: 72.46%
+Test loss: 2.38449 | Test_acc: 83.24%
+Train loss: 2.33213 | Train acc: 74.53%
+Test loss: 2.37666 | Test_acc: 84.38%
+Train loss: 2.33313 | Train acc: 73.93%
+Test loss: 2.36026 | Test_acc: 82.20%
+Train loss: 2.31624 | Train acc: 75.60%
+Test loss: 2.31308 | Test_acc: 85.23%
+Train loss: 2.32243 | Train acc: 74.72%
+Test loss: 2.30557 | Test_acc: 86.36%
+Train loss: 2.29683 | Train acc: 77.26%
+Test loss: 2.28686 | Test_acc: 87.22%
+Train loss: 2.31482 | Train acc: 75.31%
+Test loss: 2.29001 | Test_acc: 87.22%
+Train loss: 2.30173 | Train acc: 77.35%
+Test loss: 2.27294 | Test_acc: 87.78%
+Train loss: 2.30140 | Train acc: 76.85%
+Test loss: 2.30712 | Test_acc: 82.58%
+Train loss: 2.30316 | Train acc: 76.70%
+Test loss: 2.26353 | Test_acc: 87.78%
+Train loss: 2.29130 | Train acc: 77.70%
+Test loss: 2.25589 | Test_acc: 88.92%
+Train loss: 2.28850 | Train acc: 78.16%
+Test loss: 2.27823 | Test_acc: 85.89%
+
+[I 2024-03-06 19:12:37,654] Trial 12 finished with value: 88.63636363636364 and parameters: {'dropout_rate': 0.2327112749924709, 'lr': 3.887789715877792e-05, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 12 with value: 88.63636363636364.
+
+Test loss: 2.25053 | Test_acc: 88.64%
+Train loss: 2.97365 | Train acc: 10.17%
+Test loss: 2.96299 | Test_acc: 9.66%
+Train loss: 2.93738 | Train acc: 14.57%
+Test loss: 2.93671 | Test_acc: 15.91%
+Train loss: 2.90089 | Train acc: 18.01%
+Test loss: 2.88687 | Test_acc: 26.80%
+Train loss: 2.86146 | Train acc: 23.41%
+Test loss: 2.86536 | Test_acc: 26.14%
+Train loss: 2.83080 | Train acc: 26.93%
+Test loss: 2.84753 | Test_acc: 32.58%
+Train loss: 2.78242 | Train acc: 32.15%
+Test loss: 2.81209 | Test_acc: 39.02%
+Train loss: 2.75225 | Train acc: 34.94%
+Test loss: 2.79290 | Test_acc: 41.10%
+Train loss: 2.73109 | Train acc: 37.11%
+Test loss: 2.75617 | Test_acc: 45.55%
+Train loss: 2.70426 | Train acc: 39.75%
+Test loss: 2.74398 | Test_acc: 45.08%
+Train loss: 2.69585 | Train acc: 40.07%
+Test loss: 2.69223 | Test_acc: 56.25%
+Train loss: 2.67178 | Train acc: 42.70%
+Test loss: 2.69673 | Test_acc: 57.67%
+Train loss: 2.64651 | Train acc: 45.30%
+Test loss: 2.66258 | Test_acc: 57.48%
+Train loss: 2.62575 | Train acc: 47.51%
+Test loss: 2.67014 | Test_acc: 55.11%
+Train loss: 2.62560 | Train acc: 46.53%
+Test loss: 2.65241 | Test_acc: 62.03%
+Train loss: 2.60605 | Train acc: 48.59%
+Test loss: 2.62833 | Test_acc: 65.15%
+Train loss: 2.58615 | Train acc: 50.79%
+Test loss: 2.59167 | Test_acc: 67.90%
+Train loss: 2.57448 | Train acc: 51.26%
+Test loss: 2.60075 | Test_acc: 67.99%
+Train loss: 2.56144 | Train acc: 52.93%
+Test loss: 2.57766 | Test_acc: 71.02%
+Train loss: 2.54444 | Train acc: 54.13%
+Test loss: 2.53917 | Test_acc: 71.59%
+Train loss: 2.53933 | Train acc: 54.31%
+Test loss: 2.52726 | Test_acc: 73.30%
+Train loss: 2.53956 | Train acc: 54.02%
+Test loss: 2.52611 | Test_acc: 72.25%
+Train loss: 2.52522 | Train acc: 55.15%
+Test loss: 2.48973 | Test_acc: 76.14%
+Train loss: 2.52384 | Train acc: 55.26%
+Test loss: 2.51947 | Test_acc: 70.64%
+Train loss: 2.51496 | Train acc: 56.18%
+Test loss: 2.46383 | Test_acc: 77.56%
+Train loss: 2.50275 | Train acc: 57.46%
+Test loss: 2.48321 | Test_acc: 77.84%
+Train loss: 2.49263 | Train acc: 57.99%
+Test loss: 2.49087 | Test_acc: 77.65%
+Train loss: 2.49052 | Train acc: 58.20%
+Test loss: 2.46144 | Test_acc: 77.08%
+Train loss: 2.50352 | Train acc: 56.56%
+Test loss: 2.43694 | Test_acc: 79.83%
+Train loss: 2.48330 | Train acc: 58.86%
+Test loss: 2.46428 | Test_acc: 77.94%
+Train loss: 2.46405 | Train acc: 60.80%
+Test loss: 2.44129 | Test_acc: 78.79%
+
+[I 2024-03-06 19:20:07,190] Trial 13 finished with value: 81.5340909090909 and parameters: {'dropout_rate': 0.3675320834456064, 'lr': 2.3462078131323927e-05, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 12 with value: 88.63636363636364.
+
+Test loss: 2.43524 | Test_acc: 81.53%
+Train loss: 2.99613 | Train acc: 3.28%
+Test loss: 2.99642 | Test_acc: 1.14%
+Train loss: 2.99600 | Train acc: 3.48%
+Test loss: 2.99621 | Test_acc: 0.57%
+Train loss: 2.99615 | Train acc: 3.12%
+Test loss: 2.99655 | Test_acc: 0.57%
+Train loss: 2.99615 | Train acc: 3.10%
+Test loss: 2.99629 | Test_acc: 0.85%
+Train loss: 2.99600 | Train acc: 4.02%
+Test loss: 2.99615 | Test_acc: 0.85%
+Train loss: 2.99595 | Train acc: 3.78%
+
+[I 2024-03-06 19:21:31,518] Trial 14 pruned.
+
+Test loss: 2.99644 | Test_acc: 0.85%
+
+Early stopping at epoch 5
+Train loss: 2.99115 | Train acc: 7.45%
+Test loss: 2.98470 | Test_acc: 9.09%
+Train loss: 2.96776 | Train acc: 11.73%
+Test loss: 2.96943 | Test_acc: 13.35%
+Train loss: 2.94758 | Train acc: 13.64%
+Test loss: 2.95964 | Test_acc: 16.10%
+Train loss: 2.93417 | Train acc: 15.53%
+Test loss: 2.94012 | Test_acc: 15.53%
+Train loss: 2.91484 | Train acc: 17.54%
+Test loss: 2.94580 | Test_acc: 17.05%
+Train loss: 2.90699 | Train acc: 18.46%
+Test loss: 2.92977 | Test_acc: 22.06%
+Train loss: 2.88251 | Train acc: 21.68%
+Test loss: 2.92806 | Test_acc: 20.74%
+Train loss: 2.86166 | Train acc: 24.10%
+Test loss: 2.91885 | Test_acc: 23.30%
+Train loss: 2.85653 | Train acc: 24.90%
+Test loss: 2.89679 | Test_acc: 30.78%
+Train loss: 2.82887 | Train acc: 27.94%
+Test loss: 2.88888 | Test_acc: 30.02%
+Train loss: 2.83382 | Train acc: 27.00%
+Test loss: 2.89281 | Test_acc: 29.83%
+Train loss: 2.81074 | Train acc: 30.63%
+Test loss: 2.88673 | Test_acc: 30.97%
+Train loss: 2.80085 | Train acc: 30.89%
+Test loss: 2.87660 | Test_acc: 33.24%
+Train loss: 2.78969 | Train acc: 32.15%
+Test loss: 2.86686 | Test_acc: 37.12%
+Train loss: 2.77569 | Train acc: 33.40%
+Test loss: 2.85986 | Test_acc: 35.51%
+Train loss: 2.77331 | Train acc: 33.56%
+Test loss: 2.84940 | Test_acc: 40.81%
+Train loss: 2.75095 | Train acc: 36.63%
+Test loss: 2.83566 | Test_acc: 41.95%
+Train loss: 2.74548 | Train acc: 36.67%
+Test loss: 2.81380 | Test_acc: 45.55%
+Train loss: 2.74180 | Train acc: 36.76%
+Test loss: 2.80087 | Test_acc: 46.97%
+Train loss: 2.72509 | Train acc: 38.65%
+Test loss: 2.80484 | Test_acc: 48.39%
+Train loss: 2.71105 | Train acc: 39.84%
+Test loss: 2.80559 | Test_acc: 49.53%
+Train loss: 2.70021 | Train acc: 41.86%
+Test loss: 2.80880 | Test_acc: 47.92%
+Train loss: 2.67483 | Train acc: 44.43%
+Test loss: 2.79751 | Test_acc: 46.31%
+Train loss: 2.67516 | Train acc: 43.58%
+Test loss: 2.77099 | Test_acc: 55.97%
+Train loss: 2.65630 | Train acc: 46.16%
+Test loss: 2.77336 | Test_acc: 53.03%
+Train loss: 2.65062 | Train acc: 46.16%
+Test loss: 2.77222 | Test_acc: 53.41%
+Train loss: 2.64219 | Train acc: 47.60%
+Test loss: 2.73965 | Test_acc: 58.90%
+Train loss: 2.64247 | Train acc: 46.55%
+Test loss: 2.72903 | Test_acc: 62.78%
+Train loss: 2.63296 | Train acc: 47.69%
+Test loss: 2.72571 | Test_acc: 61.46%
+Train loss: 2.61966 | Train acc: 48.75%
+Test loss: 2.71773 | Test_acc: 59.28%
+
+[I 2024-03-06 19:29:26,104] Trial 15 finished with value: 62.02651515151515 and parameters: {'dropout_rate': 0.4117335456208676, 'lr': 1.0001847619731646e-05, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 12 with value: 88.63636363636364.
+
+Test loss: 2.71890 | Test_acc: 62.03%
+Train loss: 2.95991 | Train acc: 11.51%
+
+[I 2024-03-06 19:29:42,391] Trial 16 pruned.
+
+Test loss: 2.93948 | Test_acc: 14.77%
+Train loss: 2.97455 | Train acc: 10.85%
+Test loss: 2.95587 | Test_acc: 16.38%
+Train loss: 2.91392 | Train acc: 17.92%
+Test loss: 2.89302 | Test_acc: 22.06%
+Train loss: 2.84253 | Train acc: 25.95%
+Test loss: 2.86994 | Test_acc: 28.88%
+Train loss: 2.78666 | Train acc: 31.59%
+Test loss: 2.81674 | Test_acc: 32.01%
+Train loss: 2.73626 | Train acc: 36.76%
+Test loss: 2.76006 | Test_acc: 38.73%
+Train loss: 2.69746 | Train acc: 41.78%
+Test loss: 2.77177 | Test_acc: 40.53%
+Train loss: 2.65554 | Train acc: 46.46%
+Test loss: 2.73085 | Test_acc: 48.11%
+Train loss: 2.60504 | Train acc: 52.17%
+Test loss: 2.67587 | Test_acc: 50.95%
+Train loss: 2.56973 | Train acc: 55.37%
+Test loss: 2.66359 | Test_acc: 54.92%
+Train loss: 2.53103 | Train acc: 58.97%
+Test loss: 2.61821 | Test_acc: 57.77%
+Train loss: 2.50384 | Train acc: 60.84%
+Test loss: 2.60723 | Test_acc: 59.56%
+Train loss: 2.46866 | Train acc: 64.14%
+Test loss: 2.56835 | Test_acc: 60.13%
+Train loss: 2.44879 | Train acc: 65.59%
+Test loss: 2.53804 | Test_acc: 66.00%
+Train loss: 2.42086 | Train acc: 68.28%
+Test loss: 2.53808 | Test_acc: 65.25%
+Train loss: 2.40975 | Train acc: 68.77%
+Test loss: 2.51847 | Test_acc: 67.80%
+Train loss: 2.38678 | Train acc: 70.60%
+Test loss: 2.49185 | Test_acc: 71.12%
+Train loss: 2.38274 | Train acc: 70.57%
+Test loss: 2.46725 | Test_acc: 72.82%
+Train loss: 2.35942 | Train acc: 73.41%
+Test loss: 2.46703 | Test_acc: 73.67%
+Train loss: 2.37107 | Train acc: 71.96%
+Test loss: 2.44208 | Test_acc: 76.14%
+Train loss: 2.33896 | Train acc: 75.19%
+Test loss: 2.45909 | Test_acc: 72.06%
+Train loss: 2.32471 | Train acc: 76.21%
+Test loss: 2.42844 | Test_acc: 80.40%
+Train loss: 2.32971 | Train acc: 75.78%
+Test loss: 2.43801 | Test_acc: 76.04%
+Train loss: 2.32429 | Train acc: 76.09%
+Test loss: 2.43418 | Test_acc: 75.76%
+Train loss: 2.31102 | Train acc: 76.73%
+Test loss: 2.42012 | Test_acc: 76.61%
+
+Train loss: 2.30376 | Train acc: 77.20%
+Test loss: 2.37507 | Test_acc: 82.67%
+Train loss: 2.28193 | Train acc: 79.65%
+Test loss: 2.36151 | Test_acc: 82.39%
+Train loss: 2.28841 | Train acc: 78.52%
+Test loss: 2.36522 | Test_acc: 79.64%
+Train loss: 2.27623 | Train acc: 79.89%
+Test loss: 2.33315 | Test_acc: 84.09%
+Train loss: 2.28919 | Train acc: 78.83%
+Test loss: 2.33508 | Test_acc: 84.94%
+Train loss: 2.26164 | Train acc: 81.30%
+Test loss: 2.32398 | Test_acc: 84.94%
+
+[I 2024-03-06 19:38:15,176] Trial 17 finished with value: 82.19696969696969 and parameters: {'dropout_rate': 0.192894919139164, 'lr': 2.3712903446631152e-05, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 12 with value: 88.63636363636364.
+
+Test loss: 2.34115 | Test_acc: 82.20%
+Train loss: 2.99479 | Train acc: 7.64%
+Test loss: 2.99492 | Test_acc: 6.82%
+Train loss: 2.99487 | Train acc: 6.83%
+Test loss: 2.99460 | Test_acc: 7.10%
+Train loss: 2.99448 | Train acc: 7.77%
+Test loss: 2.99383 | Test_acc: 10.13%
+Train loss: 2.99440 | Train acc: 7.23%
+Test loss: 2.99469 | Test_acc: 7.39%
+Train loss: 2.99433 | Train acc: 7.86%
+Test loss: 2.99404 | Test_acc: 7.67%
+Train loss: 2.99399 | Train acc: 8.74%
+Test loss: 2.99400 | Test_acc: 7.67%
+Train loss: 2.99339 | Train acc: 8.81%
+Test loss: 2.99353 | Test_acc: 7.67%
+Train loss: 2.99303 | Train acc: 9.20%
+
+[I 2024-03-06 19:40:11,657] Trial 18 pruned.
+
+Test loss: 2.99383 | Test_acc: 7.67%
+
+Early stopping at epoch 7
+Train loss: 2.95648 | Train acc: 11.51%
+
+[I 2024-03-06 19:40:28,109] Trial 19 pruned.
+
+Test loss: 2.92220 | Test_acc: 16.95%
+Train loss: 2.97927 | Train acc: 9.83%
+
+[I 2024-03-06 19:40:44,628] Trial 20 pruned.
+
+Test loss: 2.95168 | Test_acc: 12.22%
+Train loss: 2.93257 | Train acc: 13.46%
+
+[I 2024-03-06 19:41:00,670] Trial 21 pruned.
+
+Test loss: 2.86919 | Test_acc: 21.21%
+Train loss: 2.95714 | Train acc: 11.59%
+
+[I 2024-03-06 19:41:16,825] Trial 22 pruned.
+
+Test loss: 2.93015 | Test_acc: 13.64%
+
+Train loss: 2.95904 | Train acc: 10.95%
+
+[I 2024-03-06 19:41:32,920] Trial 23 pruned.
+
+Test loss: 2.90509 | Test_acc: 17.42%
+Train loss: 2.97061 | Train acc: 9.45%
+Test loss: 2.95751 | Test_acc: 12.22%
+Train loss: 2.93078 | Train acc: 13.77%
+Test loss: 2.90158 | Test_acc: 16.76%
+Train loss: 2.90603 | Train acc: 16.14%
+Test loss: 2.88054 | Test_acc: 18.75%
+Train loss: 2.87899 | Train acc: 19.01%
+Test loss: 2.82382 | Test_acc: 26.61%
+
+Train loss: 2.85318 | Train acc: 21.96%
+Test loss: 2.80250 | Test_acc: 29.36%
+Train loss: 2.82060 | Train acc: 24.99%
+Test loss: 2.79871 | Test_acc: 30.40%
+Train loss: 2.77741 | Train acc: 29.82%
+Test loss: 2.73967 | Test_acc: 34.66%
+Train loss: 2.74953 | Train acc: 32.26%
+Test loss: 2.68174 | Test_acc: 43.84%
+Train loss: 2.72238 | Train acc: 35.18%
+Test loss: 2.70341 | Test_acc: 41.48%
+Train loss: 2.67979 | Train acc: 39.31%
+Test loss: 2.63770 | Test_acc: 50.76%
+Train loss: 2.65070 | Train acc: 42.68%
+Test loss: 2.57191 | Test_acc: 58.90%
+Train loss: 2.62332 | Train acc: 44.57%
+Test loss: 2.53373 | Test_acc: 58.62%
+
+Train loss: 2.62087 | Train acc: 45.05%
+Test loss: 2.52462 | Test_acc: 60.61%
+Train loss: 2.59120 | Train acc: 48.07%
+Test loss: 2.52540 | Test_acc: 61.55%
+Train loss: 2.59226 | Train acc: 47.75%
+Test loss: 2.46581 | Test_acc: 66.29%
+Train loss: 2.56553 | Train acc: 50.10%
+Test loss: 2.43519 | Test_acc: 71.88%
+Train loss: 2.55291 | Train acc: 51.54%
+Test loss: 2.40612 | Test_acc: 71.02%
+Train loss: 2.54156 | Train acc: 52.40%
+Test loss: 2.40297 | Test_acc: 73.30%
+Train loss: 2.53825 | Train acc: 52.92%
+Test loss: 2.42862 | Test_acc: 68.09%
+Train loss: 2.53642 | Train acc: 52.80%
+Test loss: 2.38865 | Test_acc: 72.82%
+Train loss: 2.51626 | Train acc: 54.84%
+Test loss: 2.37831 | Test_acc: 74.53%
+Train loss: 2.50671 | Train acc: 55.89%
+Test loss: 2.36489 | Test_acc: 75.66%
+Train loss: 2.50028 | Train acc: 56.05%
+Test loss: 2.34699 | Test_acc: 77.08%
+
+Train loss: 2.49125 | Train acc: 57.12%
+Test loss: 2.30641 | Test_acc: 81.53%
+Train loss: 2.49239 | Train acc: 56.60%
+Test loss: 2.30709 | Test_acc: 79.55%
+Train loss: 2.47960 | Train acc: 58.72%
+Test loss: 2.30292 | Test_acc: 80.11%
+Train loss: 2.48525 | Train acc: 57.56%
+Test loss: 2.28740 | Test_acc: 81.25%
+Train loss: 2.47040 | Train acc: 59.00%
+Test loss: 2.31521 | Test_acc: 78.22%
+
+Train loss: 2.47891 | Train acc: 58.47%
+Test loss: 2.29675 | Test_acc: 79.92%
+Train loss: 2.47982 | Train acc: 58.04%
+Test loss: 2.30154 | Test_acc: 80.21%
+
+[I 2024-03-06 19:49:42,050] Trial 24 finished with value: 80.20833333333333 and parameters: {'dropout_rate': 0.4261771736187929, 'lr': 0.0002639072213280126, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 12 with value: 88.63636363636364.
+
+Test loss: 2.31795 | Test_acc: 80.21%
+Train loss: 2.96858 | Train acc: 10.23%
+Test loss: 2.95933 | Test_acc: 11.36%
+
+Train loss: 2.90460 | Train acc: 19.50%
+Test loss: 2.88823 | Test_acc: 19.89%
+Train loss: 2.81951 | Train acc: 28.16%
+Test loss: 2.82868 | Test_acc: 27.84%
+
+Train loss: 2.74273 | Train acc: 36.93%
+Test loss: 2.75051 | Test_acc: 40.25%
+Train loss: 2.67941 | Train acc: 42.72%
+Test loss: 2.70903 | Test_acc: 47.25%
+Train loss: 2.60438 | Train acc: 51.18%
+Test loss: 2.70871 | Test_acc: 46.88%
+Train loss: 2.55441 | Train acc: 55.77%
+Test loss: 2.62168 | Test_acc: 59.94%
+
+Train loss: 2.50595 | Train acc: 60.46%
+Test loss: 2.59091 | Test_acc: 59.56%
+Train loss: 2.46709 | Train acc: 63.33%
+Test loss: 2.53467 | Test_acc: 65.44%
+Train loss: 2.43716 | Train acc: 65.98%
+Test loss: 2.55598 | Test_acc: 61.08%
+Train loss: 2.40488 | Train acc: 69.07%
+Test loss: 2.48419 | Test_acc: 71.88%
+Train loss: 2.38156 | Train acc: 70.71%
+Test loss: 2.46194 | Test_acc: 74.43%
+
+Train loss: 2.37457 | Train acc: 70.94%
+Test loss: 2.43818 | Test_acc: 74.15%
+Train loss: 2.35936 | Train acc: 71.85%
+Test loss: 2.40955 | Test_acc: 76.70%
+Train loss: 2.34950 | Train acc: 72.88%
+Test loss: 2.41372 | Test_acc: 75.09%
+Train loss: 2.34590 | Train acc: 72.68%
+Test loss: 2.41994 | Test_acc: 74.05%
+Train loss: 2.34100 | Train acc: 73.01%
+Test loss: 2.39002 | Test_acc: 77.65%
+Train loss: 2.33428 | Train acc: 73.26%
+Test loss: 2.35281 | Test_acc: 81.25%
+Train loss: 2.33138 | Train acc: 73.42%
+Test loss: 2.36248 | Test_acc: 78.22%
+Train loss: 2.33021 | Train acc: 73.52%
+Test loss: 2.38123 | Test_acc: 76.33%
+
+Train loss: 2.31228 | Train acc: 75.51%
+Test loss: 2.33235 | Test_acc: 82.67%
+Train loss: 2.30410 | Train acc: 76.91%
+Test loss: 2.33673 | Test_acc: 80.21%
+Train loss: 2.30495 | Train acc: 76.64%
+Test loss: 2.31489 | Test_acc: 83.81%
+Train loss: 2.28541 | Train acc: 78.34%
+Test loss: 2.33497 | Test_acc: 78.03%
+Train loss: 2.27708 | Train acc: 79.64%
+Test loss: 2.31217 | Test_acc: 81.91%
+Train loss: 2.27139 | Train acc: 80.31%
+Test loss: 2.31306 | Test_acc: 81.63%
+Train loss: 2.28067 | Train acc: 79.06%
+Test loss: 2.29447 | Test_acc: 82.48%
+Train loss: 2.28374 | Train acc: 78.63%
+Test loss: 2.29890 | Test_acc: 82.20%
+Train loss: 2.26771 | Train acc: 80.42%
+Test loss: 2.29028 | Test_acc: 84.38%
+Train loss: 2.26387 | Train acc: 81.00%
+Test loss: 2.25623 | Test_acc: 85.23%
+
+[I 2024-03-06 19:58:03,971] Trial 25 finished with value: 82.48106060606061 and parameters: {'dropout_rate': 0.21159336344059357, 'lr': 4.163492751028826e-05, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 12 with value: 88.63636363636364.
+
+Test loss: 2.28060 | Test_acc: 82.48%
+Train loss: 2.99642 | Train acc: 3.75%
+Test loss: 2.99604 | Test_acc: 3.41%
+Train loss: 2.99628 | Train acc: 4.02%
+Test loss: 2.99586 | Test_acc: 3.98%
+Train loss: 2.99637 | Train acc: 4.21%
+Test loss: 2.99533 | Test_acc: 9.47%
+Train loss: 2.99619 | Train acc: 4.67%
+Test loss: 2.99604 | Test_acc: 4.26%
+Train loss: 2.99638 | Train acc: 4.80%
+Test loss: 2.99607 | Test_acc: 3.98%
+Train loss: 2.99626 | Train acc: 4.25%
+
+[I 2024-03-06 19:59:36,901] Trial 26 pruned.
+
+Test loss: 2.99578 | Test_acc: 4.26%
+
+Early stopping at epoch 5
+Train loss: 2.99812 | Train acc: 7.49%
+Test loss: 2.98626 | Test_acc: 9.09%
+Train loss: 3.00650 | Train acc: 7.12%
+Test loss: 2.97936 | Test_acc: 9.94%
+Train loss: 3.01274 | Train acc: 6.49%
+Test loss: 2.98156 | Test_acc: 9.66%
+Train loss: 2.99245 | Train acc: 8.58%
+Test loss: 2.98711 | Test_acc: 9.09%
+Train loss: 3.00796 | Train acc: 6.99%
+Test loss: 2.95978 | Test_acc: 11.84%
+Train loss: 3.00322 | Train acc: 7.46%
+Test loss: 2.98725 | Test_acc: 9.09%
+Train loss: 3.00499 | Train acc: 7.34%
+Test loss: 2.98725 | Test_acc: 9.09%
+Train loss: 3.00879 | Train acc: 6.92%
+Test loss: 2.95978 | Test_acc: 11.84%
+Train loss: 3.00521 | Train acc: 7.28%
+Test loss: 2.95978 | Test_acc: 11.84%
+Train loss: 2.98955 | Train acc: 8.92%
+
+[I 2024-03-06 20:02:29,482] Trial 27 pruned.
+
+Test loss: 2.98725 | Test_acc: 9.09%
+
+Early stopping at epoch 9
+Train loss: 2.98325 | Train acc: 9.92%
+Test loss: 2.97232 | Test_acc: 16.00%
+Train loss: 2.93397 | Train acc: 16.73%
+Test loss: 2.94008 | Test_acc: 17.05%
+Train loss: 2.88154 | Train acc: 22.63%
+Test loss: 2.89818 | Test_acc: 23.48%
+Train loss: 2.83681 | Train acc: 27.39%
+Test loss: 2.88240 | Test_acc: 24.43%
+Train loss: 2.79235 | Train acc: 32.69%
+Test loss: 2.82611 | Test_acc: 37.31%
+Train loss: 2.75605 | Train acc: 36.71%
+Test loss: 2.77658 | Test_acc: 41.19%
+Train loss: 2.72861 | Train acc: 39.18%
+Test loss: 2.80304 | Test_acc: 37.22%
+Train loss: 2.70205 | Train acc: 42.05%
+Test loss: 2.76709 | Test_acc: 41.67%
+Train loss: 2.67455 | Train acc: 44.38%
+Test loss: 2.73140 | Test_acc: 48.67%
+Train loss: 2.64407 | Train acc: 47.55%
+Test loss: 2.73458 | Test_acc: 48.77%
+Train loss: 2.62232 | Train acc: 49.72%
+Test loss: 2.70358 | Test_acc: 51.04%
+Train loss: 2.59141 | Train acc: 53.23%
+Test loss: 2.69459 | Test_acc: 53.60%
+Train loss: 2.57018 | Train acc: 54.96%
+Test loss: 2.65240 | Test_acc: 57.48%
+Train loss: 2.55695 | Train acc: 56.74%
+Test loss: 2.63205 | Test_acc: 59.75%
+Train loss: 2.53679 | Train acc: 57.58%
+Test loss: 2.61504 | Test_acc: 62.59%
+Train loss: 2.52221 | Train acc: 58.24%
+Test loss: 2.62543 | Test_acc: 62.88%
+Train loss: 2.50909 | Train acc: 59.47%
+Test loss: 2.59533 | Test_acc: 67.33%
+Train loss: 2.49348 | Train acc: 61.13%
+Test loss: 2.56588 | Test_acc: 65.15%
+Train loss: 2.48780 | Train acc: 61.11%
+Test loss: 2.56298 | Test_acc: 66.86%
+Train loss: 2.48916 | Train acc: 60.63%
+Test loss: 2.57258 | Test_acc: 68.84%
+Train loss: 2.45747 | Train acc: 64.19%
+Test loss: 2.51782 | Test_acc: 71.59%
+Train loss: 2.45492 | Train acc: 63.92%
+Test loss: 2.52568 | Test_acc: 68.84%
+Train loss: 2.43741 | Train acc: 65.54%
+Test loss: 2.50631 | Test_acc: 73.58%
+Train loss: 2.43018 | Train acc: 66.07%
+Test loss: 2.50691 | Test_acc: 71.40%
+Train loss: 2.41818 | Train acc: 66.89%
+Test loss: 2.48997 | Test_acc: 72.82%
+Train loss: 2.42396 | Train acc: 65.99%
+Test loss: 2.47589 | Test_acc: 76.14%
+Train loss: 2.41411 | Train acc: 66.69%
+Test loss: 2.48475 | Test_acc: 73.67%
+Train loss: 2.39897 | Train acc: 68.71%
+Test loss: 2.48279 | Test_acc: 74.81%
+Train loss: 2.39687 | Train acc: 68.49%
+Test loss: 2.45930 | Test_acc: 78.41%
+Train loss: 2.41352 | Train acc: 66.47%
+Test loss: 2.44881 | Test_acc: 75.38%
+
+[I 2024-03-06 20:10:10,040] Trial 28 finished with value: 75.37878787878788 and parameters: {'dropout_rate': 0.26245535852346086, 'lr': 1.8134287796823888e-05, 'batch_size': 64, 'optimizer': 'Adam'}. Best is trial 12 with value: 88.63636363636364.
+
+Test loss: 2.48107 | Test_acc: 75.38%
+Train loss: 2.94904 | Train acc: 12.05%
+
+[I 2024-03-06 20:10:24,963] Trial 29 pruned.
+
+Test loss: 2.93001 | Test_acc: 14.20%
+Train loss: 2.94990 | Train acc: 13.27%
+
+[I 2024-03-06 20:10:42,144] Trial 30 pruned.
+
+Test loss: 2.90141 | Test_acc: 18.37%
+Train loss: 2.97021 | Train acc: 9.60%
+Test loss: 2.96047 | Test_acc: 10.51%
+Train loss: 2.93472 | Train acc: 14.19%
+Test loss: 2.91719 | Test_acc: 18.37%
+Train loss: 2.89597 | Train acc: 18.42%
+Test loss: 2.89914 | Test_acc: 19.60%
+Train loss: 2.84757 | Train acc: 24.50%
+Test loss: 2.86115 | Test_acc: 24.72%
+Train loss: 2.78917 | Train acc: 30.57%
+Test loss: 2.81327 | Test_acc: 31.82%
+Train loss: 2.74452 | Train acc: 34.80%
+Test loss: 2.77511 | Test_acc: 39.39%
+Train loss: 2.69315 | Train acc: 40.46%
+Test loss: 2.71326 | Test_acc: 44.79%
+Train loss: 2.64445 | Train acc: 45.32%
+Test loss: 2.67606 | Test_acc: 51.04%
+Train loss: 2.60851 | Train acc: 49.07%
+Test loss: 2.64416 | Test_acc: 53.88%
+Train loss: 2.59034 | Train acc: 50.39%
+Test loss: 2.58674 | Test_acc: 64.49%
+Train loss: 2.55106 | Train acc: 54.02%
+Test loss: 2.61176 | Test_acc: 59.66%
+Train loss: 2.54080 | Train acc: 54.97%
+Test loss: 2.53077 | Test_acc: 66.57%
+Train loss: 2.50296 | Train acc: 58.07%
+Test loss: 2.52322 | Test_acc: 70.27%
+Train loss: 2.49854 | Train acc: 58.23%
+Test loss: 2.48642 | Test_acc: 73.01%
+Train loss: 2.47499 | Train acc: 60.12%
+Test loss: 2.49853 | Test_acc: 71.97%
+Train loss: 2.45521 | Train acc: 62.32%
+Test loss: 2.46531 | Test_acc: 72.25%
+Train loss: 2.46616 | Train acc: 61.07%
+Test loss: 2.44802 | Test_acc: 73.96%
+Train loss: 2.46590 | Train acc: 60.53%
+Test loss: 2.43179 | Test_acc: 78.41%
+Train loss: 2.44826 | Train acc: 62.31%
+Test loss: 2.42040 | Test_acc: 75.95%
+Train loss: 2.44019 | Train acc: 62.79%
+Test loss: 2.39150 | Test_acc: 79.26%
+Train loss: 2.41675 | Train acc: 65.06%
+Test loss: 2.38784 | Test_acc: 79.55%
+Train loss: 2.40892 | Train acc: 65.93%
+Test loss: 2.40813 | Test_acc: 74.62%
+Train loss: 2.42603 | Train acc: 64.31%
+Test loss: 2.35224 | Test_acc: 80.68%
+Train loss: 2.41987 | Train acc: 64.89%
+Test loss: 2.37273 | Test_acc: 78.50%
+Train loss: 2.40887 | Train acc: 66.01%
+Test loss: 2.35666 | Test_acc: 80.49%
+Train loss: 2.39872 | Train acc: 67.00%
+Test loss: 2.39647 | Test_acc: 77.18%
+Train loss: 2.40655 | Train acc: 66.21%
+Test loss: 2.35516 | Test_acc: 81.06%
+Train loss: 2.39179 | Train acc: 67.33%
+Test loss: 2.33301 | Test_acc: 84.66%
+Train loss: 2.39165 | Train acc: 67.85%
+Test loss: 2.30254 | Test_acc: 83.52%
+Train loss: 2.39025 | Train acc: 67.82%
+Test loss: 2.28898 | Test_acc: 85.51%
+
+[I 2024-03-06 20:18:07,480] Trial 31 finished with value: 82.76515151515152 and parameters: {'dropout_rate': 0.3246805070412428, 'lr': 4.7241384180285285e-05, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 12 with value: 88.63636363636364.
+
+Test loss: 2.31912 | Test_acc: 82.77%
+Train loss: 2.97576 | Train acc: 9.77%
+Test loss: 2.96830 | Test_acc: 10.51%
+Train loss: 2.91999 | Train acc: 16.21%
+Test loss: 2.93493 | Test_acc: 16.19%
+Train loss: 2.87017 | Train acc: 22.61%
+Test loss: 2.88138 | Test_acc: 25.19%
+Train loss: 2.80954 | Train acc: 29.28%
+Test loss: 2.86248 | Test_acc: 28.98%
+Train loss: 2.76884 | Train acc: 33.53%
+Test loss: 2.80646 | Test_acc: 37.97%
+Train loss: 2.71237 | Train acc: 39.42%
+Test loss: 2.79220 | Test_acc: 41.19%
+Train loss: 2.66472 | Train acc: 44.86%
+Test loss: 2.76192 | Test_acc: 43.75%
+Train loss: 2.63680 | Train acc: 47.46%
+Test loss: 2.72432 | Test_acc: 48.01%
+Train loss: 2.60305 | Train acc: 50.63%
+Test loss: 2.69072 | Test_acc: 55.87%
+Train loss: 2.55786 | Train acc: 54.82%
+Test loss: 2.64955 | Test_acc: 57.10%
+Train loss: 2.53236 | Train acc: 56.96%
+Test loss: 2.57339 | Test_acc: 67.90%
+Train loss: 2.49948 | Train acc: 60.18%
+Test loss: 2.58297 | Test_acc: 65.25%
+Train loss: 2.49604 | Train acc: 60.08%
+Test loss: 2.52306 | Test_acc: 72.73%
+Train loss: 2.46748 | Train acc: 62.37%
+Test loss: 2.51049 | Test_acc: 73.67%
+Train loss: 2.47448 | Train acc: 60.91%
+Test loss: 2.50484 | Test_acc: 73.67%
+Train loss: 2.45309 | Train acc: 62.79%
+Test loss: 2.46462 | Test_acc: 79.83%
+Train loss: 2.44537 | Train acc: 63.55%
+Test loss: 2.45211 | Test_acc: 77.37%
+Train loss: 2.43898 | Train acc: 63.62%
+Test loss: 2.46184 | Test_acc: 74.91%
+Train loss: 2.44093 | Train acc: 63.41%
+Test loss: 2.40985 | Test_acc: 81.82%
+Train loss: 2.42037 | Train acc: 65.22%
+Test loss: 2.38861 | Test_acc: 84.66%
+Train loss: 2.42028 | Train acc: 65.15%
+Test loss: 2.40367 | Test_acc: 84.66%
+Train loss: 2.42472 | Train acc: 64.20%
+Test loss: 2.35473 | Test_acc: 86.65%
+Train loss: 2.42705 | Train acc: 63.77%
+Test loss: 2.35845 | Test_acc: 86.65%
+Train loss: 2.40272 | Train acc: 66.25%
+Test loss: 2.35513 | Test_acc: 84.75%
+Train loss: 2.40301 | Train acc: 66.17%
+Test loss: 2.37951 | Test_acc: 82.01%
+Train loss: 2.38562 | Train acc: 67.82%
+Test loss: 2.31393 | Test_acc: 87.50%
+Train loss: 2.38808 | Train acc: 67.57%
+Test loss: 2.29753 | Test_acc: 88.07%
+Train loss: 2.39473 | Train acc: 66.42%
+Test loss: 2.29393 | Test_acc: 88.07%
+Train loss: 2.39030 | Train acc: 66.76%
+Test loss: 2.28904 | Test_acc: 88.64%
+Train loss: 2.38453 | Train acc: 67.31%
+Test loss: 2.31655 | Test_acc: 85.61%
+
+[I 2024-03-06 20:25:34,027] Trial 32 finished with value: 88.35227272727273 and parameters: {'dropout_rate': 0.32827874628879217, 'lr': 3.5867820462865285e-05, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 12 with value: 88.63636363636364.
+
+Test loss: 2.31911 | Test_acc: 88.35%
+Train loss: 2.97018 | Train acc: 8.99%
+
+[I 2024-03-06 20:25:49,200] Trial 33 pruned.
+
+Test loss: 2.91614 | Test_acc: 20.36%
+Train loss: 2.98920 | Train acc: 7.53%
+Test loss: 2.98542 | Test_acc: 9.66%
+Train loss: 2.97791 | Train acc: 9.36%
+Test loss: 2.97810 | Test_acc: 12.78%
+Train loss: 2.96124 | Train acc: 11.04%
+Test loss: 2.96786 | Test_acc: 14.49%
+Train loss: 2.94478 | Train acc: 13.76%
+Test loss: 2.95958 | Test_acc: 15.06%
+Train loss: 2.93068 | Train acc: 14.57%
+Test loss: 2.94577 | Test_acc: 22.35%
+Train loss: 2.90922 | Train acc: 17.85%
+Test loss: 2.93320 | Test_acc: 25.47%
+Train loss: 2.90332 | Train acc: 19.11%
+Test loss: 2.92953 | Test_acc: 25.28%
+Train loss: 2.88494 | Train acc: 20.55%
+Test loss: 2.90430 | Test_acc: 34.19%
+Train loss: 2.86459 | Train acc: 23.63%
+Test loss: 2.90450 | Test_acc: 34.28%
+Train loss: 2.84300 | Train acc: 25.56%
+Test loss: 2.89610 | Test_acc: 36.93%
+Train loss: 2.82363 | Train acc: 27.62%
+Test loss: 2.87720 | Test_acc: 39.68%
+Train loss: 2.80994 | Train acc: 29.56%
+Test loss: 2.84833 | Test_acc: 49.43%
+Train loss: 2.79441 | Train acc: 30.46%
+Test loss: 2.84542 | Test_acc: 49.53%
+Train loss: 2.77804 | Train acc: 32.73%
+Test loss: 2.82335 | Test_acc: 47.06%
+Train loss: 2.76198 | Train acc: 33.70%
+Test loss: 2.82465 | Test_acc: 50.76%
+Train loss: 2.73133 | Train acc: 37.41%
+Test loss: 2.80351 | Test_acc: 56.34%
+Train loss: 2.73547 | Train acc: 36.68%
+Test loss: 2.80893 | Test_acc: 50.57%
+Train loss: 2.71838 | Train acc: 38.72%
+Test loss: 2.77111 | Test_acc: 58.05%
+Train loss: 2.70491 | Train acc: 39.30%
+Test loss: 2.75818 | Test_acc: 60.89%
+Train loss: 2.70947 | Train acc: 38.61%
+Test loss: 2.74352 | Test_acc: 65.62%
+Train loss: 2.68704 | Train acc: 41.24%
+Test loss: 2.71698 | Test_acc: 65.62%
+Train loss: 2.68079 | Train acc: 41.66%
+Test loss: 2.72866 | Test_acc: 64.58%
+Train loss: 2.66181 | Train acc: 43.31%
+Test loss: 2.71041 | Test_acc: 66.86%
+Train loss: 2.66394 | Train acc: 42.76%
+Test loss: 2.68794 | Test_acc: 70.17%
+Train loss: 2.64516 | Train acc: 44.74%
+Test loss: 2.68973 | Test_acc: 68.84%
+Train loss: 2.64731 | Train acc: 44.29%
+Test loss: 2.68630 | Test_acc: 70.83%
+Train loss: 2.64632 | Train acc: 44.60%
+Test loss: 2.67043 | Test_acc: 69.41%
+Train loss: 2.62289 | Train acc: 46.78%
+Test loss: 2.68256 | Test_acc: 70.08%
+Train loss: 2.63686 | Train acc: 45.12%
+Test loss: 2.64373 | Test_acc: 74.72%
+Train loss: 2.60670 | Train acc: 47.93%
+Test loss: 2.62397 | Test_acc: 76.42%
+
+[I 2024-03-06 20:33:19,626] Trial 34 finished with value: 73.67424242424242 and parameters: {'dropout_rate': 0.492342223692832, 'lr': 1.6745368271635524e-05, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 12 with value: 88.63636363636364.
+
+Test loss: 2.62281 | Test_acc: 73.67%
+Train loss: 2.97418 | Train acc: 10.57%
+Test loss: 2.96238 | Test_acc: 13.35%
+Train loss: 2.89681 | Train acc: 19.93%
+Test loss: 2.87559 | Test_acc: 24.91%
+Train loss: 2.82199 | Train acc: 28.19%
+Test loss: 2.84412 | Test_acc: 30.59%
+Train loss: 2.77349 | Train acc: 33.12%
+Test loss: 2.77039 | Test_acc: 39.87%
+Train loss: 2.72835 | Train acc: 37.20%
+Test loss: 2.75365 | Test_acc: 44.70%
+Train loss: 2.69036 | Train acc: 41.63%
+Test loss: 2.74104 | Test_acc: 43.66%
+Train loss: 2.65377 | Train acc: 44.79%
+Test loss: 2.69422 | Test_acc: 49.24%
+Train loss: 2.62251 | Train acc: 48.54%
+Test loss: 2.69179 | Test_acc: 53.22%
+Train loss: 2.57379 | Train acc: 53.67%
+Test loss: 2.65245 | Test_acc: 58.52%
+Train loss: 2.54646 | Train acc: 56.39%
+Test loss: 2.64803 | Test_acc: 56.44%
+Train loss: 2.52593 | Train acc: 58.00%
+Test loss: 2.57345 | Test_acc: 62.50%
+Train loss: 2.49009 | Train acc: 60.57%
+Test loss: 2.57489 | Test_acc: 64.58%
+Train loss: 2.47186 | Train acc: 62.06%
+Test loss: 2.52513 | Test_acc: 70.17%
+Train loss: 2.45061 | Train acc: 64.10%
+Test loss: 2.53992 | Test_acc: 66.38%
+Train loss: 2.43905 | Train acc: 64.86%
+Test loss: 2.50341 | Test_acc: 69.98%
+Train loss: 2.42730 | Train acc: 65.61%
+Test loss: 2.50275 | Test_acc: 68.94%
+Train loss: 2.40874 | Train acc: 67.36%
+Test loss: 2.46982 | Test_acc: 74.81%
+Train loss: 2.39609 | Train acc: 68.54%
+Test loss: 2.46210 | Test_acc: 75.95%
+Train loss: 2.36537 | Train acc: 71.94%
+Test loss: 2.42857 | Test_acc: 81.25%
+Train loss: 2.37535 | Train acc: 70.41%
+Test loss: 2.39479 | Test_acc: 83.24%
+Train loss: 2.38272 | Train acc: 68.93%
+Test loss: 2.38104 | Test_acc: 82.95%
+Train loss: 2.35991 | Train acc: 71.48%
+Test loss: 2.39779 | Test_acc: 85.23%
+Train loss: 2.34559 | Train acc: 72.76%
+Test loss: 2.34447 | Test_acc: 84.94%
+Train loss: 2.35330 | Train acc: 71.68%
+Test loss: 2.33368 | Test_acc: 83.81%
+Train loss: 2.33774 | Train acc: 73.45%
+Test loss: 2.35417 | Test_acc: 82.48%
+Train loss: 2.33841 | Train acc: 72.98%
+Test loss: 2.34501 | Test_acc: 82.77%
+Train loss: 2.33279 | Train acc: 73.59%
+Test loss: 2.33334 | Test_acc: 83.62%
+Train loss: 2.33406 | Train acc: 73.58%
+Test loss: 2.32676 | Test_acc: 83.05%
+Train loss: 2.32413 | Train acc: 74.47%
+Test loss: 2.32673 | Test_acc: 88.07%
+Train loss: 2.32301 | Train acc: 74.01%
+Test loss: 2.28231 | Test_acc: 86.36%
+
+[I 2024-03-06 20:40:44,110] Trial 35 finished with value: 86.36363636363636 and parameters: {'dropout_rate': 0.2690894503780483, 'lr': 3.433303439436078e-05, 'batch_size': 16, 'optimizer': 'Adam'}. Best is trial 12 with value: 88.63636363636364.
+
+Test loss: 2.28121 | Test_acc: 86.36%
+Train loss: 2.94703 | Train acc: 12.52%
+
+[I 2024-03-06 20:40:59,335] Trial 36 pruned.
+
+Test loss: 2.88795 | Test_acc: 22.06%
+Train loss: 2.99614 | Train acc: 4.37%
+Test loss: 2.99571 | Test_acc: 3.12%
+Train loss: 2.99601 | Train acc: 4.22%
+Test loss: 2.99599 | Test_acc: 3.12%
+Train loss: 2.99601 | Train acc: 4.17%
+Test loss: 2.99615 | Test_acc: 3.12%
+Train loss: 2.99575 | Train acc: 4.64%
+Test loss: 2.99644 | Test_acc: 3.12%
+Train loss: 2.99600 | Train acc: 4.40%
+Test loss: 2.99577 | Test_acc: 3.41%
+Train loss: 2.99601 | Train acc: 4.09%
+
+[I 2024-03-06 20:42:18,469] Trial 37 pruned.
+
+Test loss: 2.99577 | Test_acc: 3.12%
+
+Early stopping at epoch 5
+Train loss: 2.96500 | Train acc: 10.79%
+
+[I 2024-03-06 20:42:33,708] Trial 38 pruned.
+
+Test loss: 2.95867 | Test_acc: 11.08%
+Train loss: 3.01094 | Train acc: 6.64%
+Test loss: 3.01565 | Test_acc: 6.25%
+Train loss: 3.01425 | Train acc: 6.34%
+Test loss: 3.02986 | Test_acc: 4.83%
+Train loss: 3.02738 | Train acc: 5.10%
+Test loss: 3.01559 | Test_acc: 6.25%
+Train loss: 3.03427 | Train acc: 4.32%
+Test loss: 3.02417 | Test_acc: 5.40%
+Train loss: 3.02768 | Train acc: 5.02%
+Test loss: 3.02133 | Test_acc: 5.68%
+Train loss: 3.02133 | Train acc: 5.61%
+Test loss: 3.00167 | Test_acc: 7.58%
+Train loss: 3.03352 | Train acc: 4.40%
+Test loss: 3.04119 | Test_acc: 3.69%
+Train loss: 3.02819 | Train acc: 4.98%
+Test loss: 2.99657 | Test_acc: 8.14%
+Train loss: 3.02987 | Train acc: 4.83%
+Test loss: 3.02986 | Test_acc: 4.83%
+Train loss: 3.02480 | Train acc: 5.21%
+Test loss: 3.02134 | Test_acc: 5.68%
+Train loss: 3.02775 | Train acc: 4.98%
+Test loss: 3.03270 | Test_acc: 4.55%
+Train loss: 3.03281 | Train acc: 4.52%
+Test loss: 3.03554 | Test_acc: 4.26%
+Train loss: 3.03037 | Train acc: 4.78%
+
+[I 2024-03-06 20:46:18,172] Trial 39 pruned.
+
+Test loss: 3.03837 | Test_acc: 3.98%
+
+Early stopping at epoch 12
+Train loss: 2.99541 | Train acc: 4.51%
+Test loss: 2.99492 | Test_acc: 4.26%
+Train loss: 2.99520 | Train acc: 4.86%
+Test loss: 2.99468 | Test_acc: 4.55%
+Train loss: 2.99523 | Train acc: 4.75%
+Test loss: 2.99538 | Test_acc: 4.55%
+Train loss: 2.99515 | Train acc: 4.67%
+Test loss: 2.99469 | Test_acc: 4.83%
+Train loss: 2.99499 | Train acc: 5.38%
+Test loss: 2.99507 | Test_acc: 7.58%
+Train loss: 2.99499 | Train acc: 5.45%
+
+[I 2024-03-06 20:47:38,762] Trial 40 pruned.
+
+Test loss: 2.99525 | Test_acc: 5.11%
+
+Early stopping at epoch 5
+Train loss: 2.96986 | Train acc: 12.59%
+
+[I 2024-03-06 20:47:53,999] Trial 41 pruned.
+
+Test loss: 2.95327 | Test_acc: 16.19%
+Train loss: 2.97546 | Train acc: 9.78%
+
+[I 2024-03-06 20:48:09,282] Trial 42 pruned.
+
+Test loss: 2.94813 | Test_acc: 16.67%
+Train loss: 2.98720 | Train acc: 10.25%
+Test loss: 2.97711 | Test_acc: 13.35%
+Train loss: 2.93418 | Train acc: 18.39%
+Test loss: 2.92321 | Test_acc: 19.32%
+Train loss: 2.86811 | Train acc: 25.68%
+Test loss: 2.87383 | Test_acc: 25.47%
+Train loss: 2.80874 | Train acc: 32.28%
+Test loss: 2.84504 | Test_acc: 30.87%
+Train loss: 2.75707 | Train acc: 37.72%
+Test loss: 2.79956 | Test_acc: 41.00%
+Train loss: 2.71052 | Train acc: 42.12%
+Test loss: 2.78504 | Test_acc: 41.38%
+Train loss: 2.68694 | Train acc: 44.00%
+Test loss: 2.75134 | Test_acc: 47.25%
+Train loss: 2.64840 | Train acc: 49.28%
+Test loss: 2.73840 | Test_acc: 45.64%
+Train loss: 2.60159 | Train acc: 53.22%
+Test loss: 2.72224 | Test_acc: 45.45%
+Train loss: 2.57679 | Train acc: 55.54%
+Test loss: 2.68799 | Test_acc: 49.91%
+Train loss: 2.54684 | Train acc: 58.17%
+Test loss: 2.66448 | Test_acc: 55.49%
+Train loss: 2.52801 | Train acc: 59.78%
+Test loss: 2.62400 | Test_acc: 57.48%
+Train loss: 2.49797 | Train acc: 62.51%
+Test loss: 2.62211 | Test_acc: 58.62%
+Train loss: 2.48195 | Train acc: 63.83%
+Test loss: 2.62032 | Test_acc: 59.56%
+Train loss: 2.46508 | Train acc: 65.49%
+Test loss: 2.58069 | Test_acc: 63.45%
+Train loss: 2.44760 | Train acc: 66.75%
+Test loss: 2.53854 | Test_acc: 67.33%
+
+[W 2024-03-06 20:52:28,878] Trial 43 failed with parameters: {'dropout_rate': 0.1923715102933337, 'lr': 1.6188313761136777e-05, 'batch_size': 16, 'optimizer': 'Adam'} because of the following error: KeyboardInterrupt().
+Traceback (most recent call last):
+  File "/Users/julianmagnago/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/optuna/study/_optimize.py", line 200, in _run_trial
+    value_or_values = func(trial)
+                      ^^^^^^^^^^^
+  File "/var/folders/2k/c3p8y0j913z7nh8832f5clzw0000gn/T/ipykernel_44704/1112315714.py", line 24, in objective
+    train_loss = train_step(model, train_dataloader, loss_fn, optimizer, accuracy_fn, device)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/folders/2k/c3p8y0j913z7nh8832f5clzw0000gn/T/ipykernel_44704/2466690961.py", line 25, in train_step
+    train_pred = model(X)
+                 ^^^^^^^^
+  File "/Users/julianmagnago/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmagnago/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/folders/2k/c3p8y0j913z7nh8832f5clzw0000gn/T/ipykernel_44704/2141199588.py", line 38, in forward
+    x = self.pool(F.relu(self.conv2(x)))
+                         ^^^^^^^^^^^^^
+  File "/Users/julianmagnago/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmagnago/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmagnago/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/torch/nn/modules/conv.py", line 460, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/julianmagnago/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/torch/nn/modules/conv.py", line 456, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+[W 2024-03-06 20:52:28,887] Trial 43 failed with value None.
+
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mKeyboardInterrupt[0m                         Traceback (most recent call last)
+Cell [0;32mIn[97], line 53[0m
+[1;32m     50[0m study [38;5;241m=[39m optuna[38;5;241m.[39mcreate_study(direction[38;5;241m=[39m[38;5;124m"[39m[38;5;124mmaximize[39m[38;5;124m"[39m)
+[1;32m     52[0m [38;5;66;03m# Optimize the hyperparameters[39;00m
+[0;32m---> 53[0m [43mstudy[49m[38;5;241;43m.[39;49m[43moptimize[49m[43m([49m[43mobjective[49m[43m,[49m[43m [49m[43mn_trials[49m[38;5;241;43m=[39;49m[38;5;241;43m100[39;49m[43m)[49m
+[1;32m     56[0m [38;5;66;03m# Print the best hyperparameters and the corresponding accuracy[39;00m
+[1;32m     57[0m [38;5;28mprint[39m([38;5;124m"[39m[38;5;124mBest hyperparameters: [39m[38;5;124m"[39m, study[38;5;241m.[39mbest_trial[38;5;241m.[39mparams)
+
+File [0;32m~/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/optuna/study/study.py:451[0m, in [0;36mStudy.optimize[0;34m(self, func, n_trials, timeout, n_jobs, catch, callbacks, gc_after_trial, show_progress_bar)[0m
+[1;32m    348[0m [38;5;28;01mdef[39;00m [38;5;21moptimize[39m(
+[1;32m    349[0m     [38;5;28mself[39m,
+[1;32m    350[0m     func: ObjectiveFuncType,
+[0;32m   (...)[0m
+[1;32m    357[0m     show_progress_bar: [38;5;28mbool[39m [38;5;241m=[39m [38;5;28;01mFalse[39;00m,
+[1;32m    358[0m ) [38;5;241m-[39m[38;5;241m>[39m [38;5;28;01mNone[39;00m:
+[1;32m    359[0m [38;5;250m    [39m[38;5;124;03m"""Optimize an objective function.[39;00m
+[1;32m    360[0m
+[1;32m    361[0m [38;5;124;03m    Optimization is done by choosing a suitable set of hyperparameter values from a given[39;00m
+[0;32m   (...)[0m
+[1;32m    449[0m [38;5;124;03m            If nested invocation of this method occurs.[39;00m
+[1;32m    450[0m [38;5;124;03m    """[39;00m
+[0;32m--> 451[0m     [43m_optimize[49m[43m([49m
+[1;32m    452[0m [43m        [49m[43mstudy[49m[38;5;241;43m=[39;49m[38;5;28;43mself[39;49m[43m,[49m
+[1;32m    453[0m [43m        [49m[43mfunc[49m[38;5;241;43m=[39;49m[43mfunc[49m[43m,[49m
+[1;32m    454[0m [43m        [49m[43mn_trials[49m[38;5;241;43m=[39;49m[43mn_trials[49m[43m,[49m
+[1;32m    455[0m [43m        [49m[43mtimeout[49m[38;5;241;43m=[39;49m[43mtimeout[49m[43m,[49m
+[1;32m    456[0m [43m        [49m[43mn_jobs[49m[38;5;241;43m=[39;49m[43mn_jobs[49m[43m,[49m
+[1;32m    457[0m [43m        [49m[43mcatch[49m[38;5;241;43m=[39;49m[38;5;28;43mtuple[39;49m[43m([49m[43mcatch[49m[43m)[49m[43m [49m[38;5;28;43;01mif[39;49;00m[43m [49m[38;5;28;43misinstance[39;49m[43m([49m[43mcatch[49m[43m,[49m[43m [49m[43mIterable[49m[43m)[49m[43m [49m[38;5;28;43;01melse[39;49;00m[43m [49m[43m([49m[43mcatch[49m[43m,[49m[43m)[49m[43m,[49m
+[1;32m    458[0m [43m        [49m[43mcallbacks[49m[38;5;241;43m=[39;49m[43mcallbacks[49m[43m,[49m
+[1;32m    459[0m [43m        [49m[43mgc_after_trial[49m[38;5;241;43m=[39;49m[43mgc_after_trial[49m[43m,[49m
+[1;32m    460[0m [43m        [49m[43mshow_progress_bar[49m[38;5;241;43m=[39;49m[43mshow_progress_bar[49m[43m,[49m
+[1;32m    461[0m [43m    [49m[43m)[49m
+
+File [0;32m~/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/optuna/study/_optimize.py:66[0m, in [0;36m_optimize[0;34m(study, func, n_trials, timeout, n_jobs, catch, callbacks, gc_after_trial, show_progress_bar)[0m
+[1;32m     64[0m [38;5;28;01mtry[39;00m:
+[1;32m     65[0m     [38;5;28;01mif[39;00m n_jobs [38;5;241m==[39m [38;5;241m1[39m:
+[0;32m---> 66[0m         [43m_optimize_sequential[49m[43m([49m
+[1;32m     67[0m [43m            [49m[43mstudy[49m[43m,[49m
+[1;32m     68[0m [43m            [49m[43mfunc[49m[43m,[49m
+[1;32m     69[0m [43m            [49m[43mn_trials[49m[43m,[49m
+[1;32m     70[0m [43m            [49m[43mtimeout[49m[43m,[49m
+[1;32m     71[0m [43m            [49m[43mcatch[49m[43m,[49m
+[1;32m     72[0m [43m            [49m[43mcallbacks[49m[43m,[49m
+[1;32m     73[0m [43m            [49m[43mgc_after_trial[49m[43m,[49m
+[1;32m     74[0m [43m            [49m[43mreseed_sampler_rng[49m[38;5;241;43m=[39;49m[38;5;28;43;01mFalse[39;49;00m[43m,[49m
+[1;32m     75[0m [43m            [49m[43mtime_start[49m[38;5;241;43m=[39;49m[38;5;28;43;01mNone[39;49;00m[43m,[49m
+[1;32m     76[0m [43m            [49m[43mprogress_bar[49m[38;5;241;43m=[39;49m[43mprogress_bar[49m[43m,[49m
+[1;32m     77[0m [43m        [49m[43m)[49m
+[1;32m     78[0m     [38;5;28;01melse[39;00m:
+[1;32m     79[0m         [38;5;28;01mif[39;00m n_jobs [38;5;241m==[39m [38;5;241m-[39m[38;5;241m1[39m:
+
+File [0;32m~/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/optuna/study/_optimize.py:163[0m, in [0;36m_optimize_sequential[0;34m(study, func, n_trials, timeout, catch, callbacks, gc_after_trial, reseed_sampler_rng, time_start, progress_bar)[0m
+[1;32m    160[0m         [38;5;28;01mbreak[39;00m
+[1;32m    162[0m [38;5;28;01mtry[39;00m:
+[0;32m--> 163[0m     frozen_trial [38;5;241m=[39m [43m_run_trial[49m[43m([49m[43mstudy[49m[43m,[49m[43m [49m[43mfunc[49m[43m,[49m[43m [49m[43mcatch[49m[43m)[49m
+[1;32m    164[0m [38;5;28;01mfinally[39;00m:
+[1;32m    165[0m     [38;5;66;03m# The following line mitigates memory problems that can be occurred in some[39;00m
+[1;32m    166[0m     [38;5;66;03m# environments (e.g., services that use computing containers such as GitHub Actions).[39;00m
+[1;32m    167[0m     [38;5;66;03m# Please refer to the following PR for further details:[39;00m
+[1;32m    168[0m     [38;5;66;03m# https://github.com/optuna/optuna/pull/325.[39;00m
+[1;32m    169[0m     [38;5;28;01mif[39;00m gc_after_trial:
+
+File [0;32m~/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/optuna/study/_optimize.py:251[0m, in [0;36m_run_trial[0;34m(study, func, catch)[0m
+[1;32m    244[0m         [38;5;28;01massert[39;00m [38;5;28;01mFalse[39;00m, [38;5;124m"[39m[38;5;124mShould not reach.[39m[38;5;124m"[39m
+[1;32m    246[0m [38;5;28;01mif[39;00m (
+[1;32m    247[0m     frozen_trial[38;5;241m.[39mstate [38;5;241m==[39m TrialState[38;5;241m.[39mFAIL
+[1;32m    248[0m     [38;5;129;01mand[39;00m func_err [38;5;129;01mis[39;00m [38;5;129;01mnot[39;00m [38;5;28;01mNone[39;00m
+[1;32m    249[0m     [38;5;129;01mand[39;00m [38;5;129;01mnot[39;00m [38;5;28misinstance[39m(func_err, catch)
+[1;32m    250[0m ):
+[0;32m--> 251[0m     [38;5;28;01mraise[39;00m func_err
+[1;32m    252[0m [38;5;28;01mreturn[39;00m frozen_trial
+
+File [0;32m~/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/optuna/study/_optimize.py:200[0m, in [0;36m_run_trial[0;34m(study, func, catch)[0m
+[1;32m    198[0m [38;5;28;01mwith[39;00m get_heartbeat_thread(trial[38;5;241m.[39m_trial_id, study[38;5;241m.[39m_storage):
+[1;32m    199[0m     [38;5;28;01mtry[39;00m:
+[0;32m--> 200[0m         value_or_values [38;5;241m=[39m [43mfunc[49m[43m([49m[43mtrial[49m[43m)[49m
+[1;32m    201[0m     [38;5;28;01mexcept[39;00m exceptions[38;5;241m.[39mTrialPruned [38;5;28;01mas[39;00m e:
+[1;32m    202[0m         [38;5;66;03m# TODO(mamu): Handle multi-objective cases.[39;00m
+[1;32m    203[0m         state [38;5;241m=[39m TrialState[38;5;241m.[39mPRUNED
+
+Cell [0;32mIn[97], line 24[0m, in [0;36mobjective[0;34m(trial)[0m
+[1;32m     22[0m [38;5;66;03m# Training loop[39;00m
+[1;32m     23[0m [38;5;28;01mfor[39;00m epoch [38;5;129;01min[39;00m [38;5;28mrange[39m([38;5;241m30[39m):  [38;5;66;03m# Maximum number of epochs[39;00m
+[0;32m---> 24[0m     train_loss [38;5;241m=[39m [43mtrain_step[49m[43m([49m[43mmodel[49m[43m,[49m[43m [49m[43mtrain_dataloader[49m[43m,[49m[43m [49m[43mloss_fn[49m[43m,[49m[43m [49m[43moptimizer[49m[43m,[49m[43m [49m[43maccuracy_fn[49m[43m,[49m[43m [49m[43mdevice[49m[43m)[49m
+[1;32m     25[0m     test_acc, test_loss [38;5;241m=[39m test_step(model, test_dataloader, loss_fn, accuracy_fn, device)
+[1;32m     27[0m     [38;5;66;03m# Early stopping[39;00m
+
+Cell [0;32mIn[95], line 25[0m, in [0;36mtrain_step[0;34m(model, data_loader, loss_fn, optimizer, accuracy_fn, device)[0m
+[1;32m     22[0m X,y [38;5;241m=[39m X[38;5;241m.[39mto(device), y[38;5;241m.[39mto(device)
+[1;32m     24[0m [38;5;66;03m# 1. Forward pass (outputs the raw logits from the model)[39;00m
+[0;32m---> 25[0m train_pred [38;5;241m=[39m [43mmodel[49m[43m([49m[43mX[49m[43m)[49m
+[1;32m     26[0m y_pred_probs [38;5;241m=[39m train_pred[38;5;241m.[39msoftmax(dim[38;5;241m=[39m[38;5;241m1[39m) [38;5;66;03m# convert logits to probabilities[39;00m
+[1;32m     29[0m [38;5;66;03m# 2. Calculate loss and accuracy[39;00m
+
+File [0;32m~/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/torch/nn/modules/module.py:1511[0m, in [0;36mModule._wrapped_call_impl[0;34m(self, *args, **kwargs)[0m
+[1;32m   1509[0m     [38;5;28;01mreturn[39;00m [38;5;28mself[39m[38;5;241m.[39m_compiled_call_impl([38;5;241m*[39margs, [38;5;241m*[39m[38;5;241m*[39mkwargs)  [38;5;66;03m# type: ignore[misc][39;00m
+[1;32m   1510[0m [38;5;28;01melse[39;00m:
+[0;32m-> 1511[0m     [38;5;28;01mreturn[39;00m [38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43m_call_impl[49m[43m([49m[38;5;241;43m*[39;49m[43margs[49m[43m,[49m[43m [49m[38;5;241;43m*[39;49m[38;5;241;43m*[39;49m[43mkwargs[49m[43m)[49m
+
+File [0;32m~/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/torch/nn/modules/module.py:1520[0m, in [0;36mModule._call_impl[0;34m(self, *args, **kwargs)[0m
+[1;32m   1515[0m [38;5;66;03m# If we don't have any hooks, we want to skip the rest of the logic in[39;00m
+[1;32m   1516[0m [38;5;66;03m# this function, and just call forward.[39;00m
+[1;32m   1517[0m [38;5;28;01mif[39;00m [38;5;129;01mnot[39;00m ([38;5;28mself[39m[38;5;241m.[39m_backward_hooks [38;5;129;01mor[39;00m [38;5;28mself[39m[38;5;241m.[39m_backward_pre_hooks [38;5;129;01mor[39;00m [38;5;28mself[39m[38;5;241m.[39m_forward_hooks [38;5;129;01mor[39;00m [38;5;28mself[39m[38;5;241m.[39m_forward_pre_hooks
+[1;32m   1518[0m         [38;5;129;01mor[39;00m _global_backward_pre_hooks [38;5;129;01mor[39;00m _global_backward_hooks
+[1;32m   1519[0m         [38;5;129;01mor[39;00m _global_forward_hooks [38;5;129;01mor[39;00m _global_forward_pre_hooks):
+[0;32m-> 1520[0m     [38;5;28;01mreturn[39;00m [43mforward_call[49m[43m([49m[38;5;241;43m*[39;49m[43margs[49m[43m,[49m[43m [49m[38;5;241;43m*[39;49m[38;5;241;43m*[39;49m[43mkwargs[49m[43m)[49m
+[1;32m   1522[0m [38;5;28;01mtry[39;00m:
+[1;32m   1523[0m     result [38;5;241m=[39m [38;5;28;01mNone[39;00m
+
+Cell [0;32mIn[94], line 38[0m, in [0;36mCarsCNN.forward[0;34m(self, x)[0m
+[1;32m     36[0m [38;5;66;03m#batch normalization layer[39;00m
+[1;32m     37[0m x [38;5;241m=[39m [38;5;28mself[39m[38;5;241m.[39mbatch_norm1(x)
+[0;32m---> 38[0m x [38;5;241m=[39m [38;5;28mself[39m[38;5;241m.[39mpool(F[38;5;241m.[39mrelu([38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43mconv2[49m[43m([49m[43mx[49m[43m)[49m))
+[1;32m     39[0m [38;5;66;03m# batch normalization layer[39;00m
+[1;32m     40[0m x [38;5;241m=[39m [38;5;28mself[39m[38;5;241m.[39mbatch_norm2(x)
+
+File [0;32m~/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/torch/nn/modules/module.py:1511[0m, in [0;36mModule._wrapped_call_impl[0;34m(self, *args, **kwargs)[0m
+[1;32m   1509[0m     [38;5;28;01mreturn[39;00m [38;5;28mself[39m[38;5;241m.[39m_compiled_call_impl([38;5;241m*[39margs, [38;5;241m*[39m[38;5;241m*[39mkwargs)  [38;5;66;03m# type: ignore[misc][39;00m
+[1;32m   1510[0m [38;5;28;01melse[39;00m:
+[0;32m-> 1511[0m     [38;5;28;01mreturn[39;00m [38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43m_call_impl[49m[43m([49m[38;5;241;43m*[39;49m[43margs[49m[43m,[49m[43m [49m[38;5;241;43m*[39;49m[38;5;241;43m*[39;49m[43mkwargs[49m[43m)[49m
+
+File [0;32m~/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/torch/nn/modules/module.py:1520[0m, in [0;36mModule._call_impl[0;34m(self, *args, **kwargs)[0m
+[1;32m   1515[0m [38;5;66;03m# If we don't have any hooks, we want to skip the rest of the logic in[39;00m
+[1;32m   1516[0m [38;5;66;03m# this function, and just call forward.[39;00m
+[1;32m   1517[0m [38;5;28;01mif[39;00m [38;5;129;01mnot[39;00m ([38;5;28mself[39m[38;5;241m.[39m_backward_hooks [38;5;129;01mor[39;00m [38;5;28mself[39m[38;5;241m.[39m_backward_pre_hooks [38;5;129;01mor[39;00m [38;5;28mself[39m[38;5;241m.[39m_forward_hooks [38;5;129;01mor[39;00m [38;5;28mself[39m[38;5;241m.[39m_forward_pre_hooks
+[1;32m   1518[0m         [38;5;129;01mor[39;00m _global_backward_pre_hooks [38;5;129;01mor[39;00m _global_backward_hooks
+[1;32m   1519[0m         [38;5;129;01mor[39;00m _global_forward_hooks [38;5;129;01mor[39;00m _global_forward_pre_hooks):
+[0;32m-> 1520[0m     [38;5;28;01mreturn[39;00m [43mforward_call[49m[43m([49m[38;5;241;43m*[39;49m[43margs[49m[43m,[49m[43m [49m[38;5;241;43m*[39;49m[38;5;241;43m*[39;49m[43mkwargs[49m[43m)[49m
+[1;32m   1522[0m [38;5;28;01mtry[39;00m:
+[1;32m   1523[0m     result [38;5;241m=[39m [38;5;28;01mNone[39;00m
+
+File [0;32m~/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/torch/nn/modules/conv.py:460[0m, in [0;36mConv2d.forward[0;34m(self, input)[0m
+[1;32m    459[0m [38;5;28;01mdef[39;00m [38;5;21mforward[39m([38;5;28mself[39m, [38;5;28minput[39m: Tensor) [38;5;241m-[39m[38;5;241m>[39m Tensor:
+[0;32m--> 460[0m     [38;5;28;01mreturn[39;00m [38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43m_conv_forward[49m[43m([49m[38;5;28;43minput[39;49m[43m,[49m[43m [49m[38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43mweight[49m[43m,[49m[43m [49m[38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43mbias[49m[43m)[49m
+
+File [0;32m~/.local/share/virtualenvs/car_classification-BzikTXG-/lib/python3.11/site-packages/torch/nn/modules/conv.py:456[0m, in [0;36mConv2d._conv_forward[0;34m(self, input, weight, bias)[0m
+[1;32m    452[0m [38;5;28;01mif[39;00m [38;5;28mself[39m[38;5;241m.[39mpadding_mode [38;5;241m!=[39m [38;5;124m'[39m[38;5;124mzeros[39m[38;5;124m'[39m:
+[1;32m    453[0m     [38;5;28;01mreturn[39;00m F[38;5;241m.[39mconv2d(F[38;5;241m.[39mpad([38;5;28minput[39m, [38;5;28mself[39m[38;5;241m.[39m_reversed_padding_repeated_twice, mode[38;5;241m=[39m[38;5;28mself[39m[38;5;241m.[39mpadding_mode),
+[1;32m    454[0m                     weight, bias, [38;5;28mself[39m[38;5;241m.[39mstride,
+[1;32m    455[0m                     _pair([38;5;241m0[39m), [38;5;28mself[39m[38;5;241m.[39mdilation, [38;5;28mself[39m[38;5;241m.[39mgroups)
+[0;32m--> 456[0m [38;5;28;01mreturn[39;00m [43mF[49m[38;5;241;43m.[39;49m[43mconv2d[49m[43m([49m[38;5;28;43minput[39;49m[43m,[49m[43m [49m[43mweight[49m[43m,[49m[43m [49m[43mbias[49m[43m,[49m[43m [49m[38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43mstride[49m[43m,[49m
+[1;32m    457[0m [43m                [49m[38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43mpadding[49m[43m,[49m[43m [49m[38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43mdilation[49m[43m,[49m[43m [49m[38;5;28;43mself[39;49m[38;5;241;43m.[39;49m[43mgroups[49m[43m)[49m
+
+[0;31mKeyboardInterrupt[0m:
