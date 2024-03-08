@@ -4,12 +4,15 @@ from PIL import Image, ImageTk
 import torch
 import torchvision.transforms as transforms
 from CarsCNN_class import CarsCNN_final
+import socket
 
 car_classes = ['Golf', 'bmw serie 1', 'chevrolet spark',
                'chevroulet aveo', 'clio', 'duster', 'hyundai i10',
                'hyundai tucson', 'logan', 'megane', 'mercedes class a',
                'nemo citroen', 'octavia', 'picanto', 'polo', 'sandero',
                'seat ibiza', 'symbol', 'toyota corolla', 'volkswagen tiguan']
+server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+server.bind(('0.0.0.0', 9999))
 
 class CarClassifierGUI:
     def __init__(self, root):
